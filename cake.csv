@@ -1,0 +1,726 @@
+age,gender,location,diet_preference,previous_order_count,average_rating_given,cake_type,flavor,price,calories,ingredients,popularity_score
+53,Other,Kolkata,Vegan,3,2.25,Custom,Strawberry,1883.64,600,"flour, sugar, eggs",0.35
+43,Male,Delhi,Vegetarian,6,4.19,Festival,Strawberry,1695.67,227,"strawberries, almonds, sugar",0.58
+29,Other,Pune,Vegan,7,4.87,Anniversary,Red Velvet,1263.23,736,"mango, sugar, strawberries, cream",0.225
+57,Female,Mumbai,Non-Vegetarian,16,4.43,Anniversary,Strawberry,1416.95,257,"cream, flour, pineapple, chocolate, almonds",0.065
+22,Female,Delhi,Eggetarian,4,1.47,Birthday,Black Forest,1827.26,697,"cashews, chocolate, milk",0.626
+35,Male,Pune,Eggetarian,6,3.96,Anniversary,Strawberry,979.18,496,"sugar, butter, almonds, chocolate, eggs",0.417
+53,Female,Hyderabad,Eggetarian,27,2.28,Wedding,Black Forest,855.55,333,"almonds, flour, milk",0.622
+33,Female,Chennai,Non-Vegetarian,19,4.95,Birthday,Pineapple,318.38,530,"butter, pineapple, strawberries, cream, sugar",0.211
+37,Female,Delhi,Vegan,28,2.94,Wedding,Butterscotch,1705.14,448,"flour, pineapple, sugar, cashews, mango",0.339
+25,Female,Chennai,Non-Vegetarian,19,1.49,Festival,Mango,1661.67,749,"almonds, butter, pineapple, milk, sugar",0.562
+25,Male,Delhi,Eggetarian,3,3.9,Custom,Red Velvet,477.57,274,"milk, strawberries, mango",0.593
+38,Male,Hyderabad,Non-Vegetarian,27,2.29,Festival,Strawberry,1280.66,853,"milk, chocolate, strawberries",0.372
+50,Other,Chennai,Non-Vegetarian,5,4.99,Custom,Black Forest,1088.77,367,"flour, sugar, strawberries",0.28
+54,Female,Bangalore,Non-Vegetarian,6,4.92,Festival,Black Forest,501.81,970,"milk, mango, almonds, butter",0.274
+38,Other,Mumbai,Vegan,17,3.62,Anniversary,Pineapple,1966.97,702,"strawberries, flour, cashews",0.175
+17,Male,Bangalore,Vegetarian,4,1.52,Wedding,Black Forest,664.98,554,"sugar, cream, eggs, mango",0.325
+36,Male,Pune,Vegetarian,19,3.75,Custom,Mango,414.3,424,"butter, eggs, strawberries",0.199
+16,Male,Hyderabad,Non-Vegetarian,29,1.37,Birthday,Vanilla,1311.24,863,"chocolate, milk, strawberries, pineapple",0.634
+38,Male,Bangalore,Vegetarian,28,1.12,Wedding,Chocolate,1556.07,730,"strawberries, eggs, mango",0.569
+58,Male,Delhi,Vegetarian,2,4.29,Birthday,Mango,355.15,345,"mango, flour, almonds, pineapple",0.383
+44,Male,Pune,Non-Vegetarian,6,1.84,Wedding,Butterscotch,1419.82,440,"sugar, chocolate, butter, pineapple",0.326
+52,Male,Pune,Non-Vegetarian,26,2.52,Wedding,Mango,1204.9,543,"chocolate, sugar, strawberries, almonds",0.238
+16,Female,Bangalore,Eggetarian,27,4.89,Festival,Pineapple,475.55,948,"milk, flour, eggs, strawberries",0.535
+35,Other,Bangalore,Vegetarian,21,2.35,Custom,Pineapple,593.29,234,"almonds, flour, vanilla, mango, pineapple",0.919
+47,Male,Hyderabad,Vegan,13,2.19,Custom,Mango,1265.56,901,"vanilla, pineapple, butter",0.686
+26,Female,Mumbai,Non-Vegetarian,6,4.67,Wedding,Strawberry,803.81,200,"milk, strawberries, eggs, vanilla",0.744
+36,Female,Bangalore,Eggetarian,4,1.44,Anniversary,Vanilla,1895.14,352,"strawberries, pineapple, cashews, sugar, almonds",0.834
+58,Other,Kolkata,Vegan,28,4.04,Anniversary,Strawberry,1691.86,628,"chocolate, sugar, butter, vanilla, milk",0.352
+39,Male,Bangalore,Vegetarian,21,4.95,Birthday,Strawberry,1972.06,707,"cashews, eggs, chocolate, strawberries, cream",0.063
+63,Other,Chennai,Eggetarian,4,4.61,Birthday,Mango,741.44,325,"sugar, mango, cream",0.623
+41,Male,Delhi,Non-Vegetarian,29,3.61,Festival,Red Velvet,1948.53,690,"almonds, pineapple, strawberries",0.189
+56,Female,Kolkata,Vegan,22,2.26,Wedding,Red Velvet,1033.1,681,"vanilla, cream, strawberries, almonds, butter",0.569
+42,Female,Kolkata,Non-Vegetarian,1,2.02,Birthday,Red Velvet,890.78,544,"pineapple, butter, cream, mango, almonds",0.74
+30,Female,Chennai,Vegetarian,29,4.28,Birthday,Vanilla,385.59,937,"sugar, pineapple, cream",0.784
+29,Female,Chennai,Vegan,26,4.52,Wedding,Strawberry,389.7,420,"eggs, chocolate, strawberries",0.302
+61,Other,Pune,Vegetarian,20,3.1,Festival,Chocolate,1476.42,922,"sugar, mango, almonds",0.512
+58,Male,Mumbai,Vegetarian,21,1.98,Birthday,Butterscotch,1078.48,224,"milk, strawberries, cashews, chocolate, eggs",0.621
+17,Male,Delhi,Eggetarian,5,1.45,Festival,Red Velvet,685.09,727,"pineapple, sugar, vanilla",0.819
+51,Other,Hyderabad,Non-Vegetarian,14,1.35,Custom,Red Velvet,1343.75,381,"strawberries, pineapple, sugar, milk",0.761
+21,Male,Kolkata,Vegan,20,3.88,Festival,Pineapple,729.86,698,"mango, milk, pineapple, almonds, flour",0.988
+35,Female,Hyderabad,Vegetarian,9,2.68,Anniversary,Strawberry,1281.97,840,"pineapple, strawberries, vanilla, mango",0.008
+23,Male,Bangalore,Vegetarian,22,4.62,Anniversary,Strawberry,910.65,241,"almonds, butter, pineapple",0.437
+53,Female,Bangalore,Vegan,25,3.96,Festival,Vanilla,1700.04,680,"butter, milk, eggs",0.256
+32,Other,Hyderabad,Vegetarian,23,1.77,Anniversary,Vanilla,1695.18,947,"flour, butter, almonds",0.12
+18,Male,Bangalore,Eggetarian,6,3.46,Custom,Red Velvet,1111.5,638,"cream, butter, chocolate",0.912
+39,Other,Mumbai,Eggetarian,4,2.74,Wedding,Strawberry,896.39,601,"sugar, mango, cashews, eggs, pineapple",0.998
+28,Male,Chennai,Eggetarian,0,3.31,Anniversary,Chocolate,916.35,745,"milk, mango, vanilla",0.181
+64,Female,Bangalore,Eggetarian,12,3.95,Anniversary,Butterscotch,1669.71,544,"butter, flour, sugar, cream",0.038
+23,Other,Pune,Vegetarian,20,4.22,Festival,Mango,857.91,244,"vanilla, almonds, cashews",0.275
+40,Male,Bangalore,Vegan,25,4.37,Custom,Strawberry,655.4,845,"cream, chocolate, flour",0.835
+16,Female,Delhi,Vegan,17,2.02,Wedding,Pineapple,443.97,220,"cream, chocolate, strawberries",0.294
+34,Other,Mumbai,Vegan,12,1.12,Festival,Mango,1093.38,833,"chocolate, milk, mango",0.057
+42,Other,Delhi,Vegan,20,3.96,Festival,Strawberry,1119.62,269,"pineapple, cashews, chocolate",0.052
+61,Male,Delhi,Non-Vegetarian,20,1.43,Custom,Black Forest,1729.54,247,"chocolate, pineapple, sugar, strawberries, milk",0.427
+21,Male,Pune,Vegan,17,2.26,Wedding,Vanilla,676.11,690,"vanilla, almonds, cream, sugar",0.932
+58,Male,Mumbai,Non-Vegetarian,4,1.02,Custom,Pineapple,947.69,750,"sugar, almonds, cream, chocolate, milk",0.286
+22,Female,Mumbai,Non-Vegetarian,12,3.73,Wedding,Butterscotch,1674.29,486,"vanilla, sugar, chocolate, pineapple, milk",0.427
+61,Male,Mumbai,Eggetarian,3,1.67,Custom,Red Velvet,1700.16,209,"cream, eggs, mango",0.102
+49,Other,Mumbai,Non-Vegetarian,16,3.62,Festival,Pineapple,953.84,741,"vanilla, pineapple, chocolate, cashews, almonds",0.494
+28,Other,Mumbai,Vegetarian,2,4.97,Festival,Strawberry,1080.51,955,"milk, pineapple, chocolate, vanilla",0.697
+31,Male,Pune,Non-Vegetarian,16,1.29,Birthday,Red Velvet,815.59,473,"eggs, mango, flour",0.271
+50,Male,Bangalore,Eggetarian,27,1.31,Anniversary,Strawberry,1885.34,799,"mango, chocolate, almonds, flour",0.297
+64,Other,Delhi,Non-Vegetarian,10,2.36,Custom,Red Velvet,501.69,955,"butter, vanilla, cashews",0.842
+54,Female,Mumbai,Vegetarian,20,4.47,Birthday,Butterscotch,1887.37,580,"almonds, pineapple, chocolate, eggs, mango",0.01
+18,Male,Kolkata,Vegetarian,19,1.86,Anniversary,Vanilla,1462.57,528,"eggs, pineapple, strawberries, cream",0.636
+16,Male,Bangalore,Vegetarian,22,2.44,Custom,Butterscotch,1203.67,678,"almonds, flour, cream",0.394
+20,Other,Bangalore,Eggetarian,20,1.27,Wedding,Black Forest,355.52,214,"strawberries, mango, cashews",0.298
+56,Male,Delhi,Eggetarian,25,4.05,Anniversary,Chocolate,1108.51,715,"sugar, cream, butter, mango, strawberries",0.658
+18,Female,Pune,Vegan,29,2.63,Festival,Vanilla,993.17,390,"chocolate, eggs, vanilla",0.835
+43,Other,Hyderabad,Eggetarian,3,4.04,Birthday,Butterscotch,574.07,367,"flour, sugar, chocolate",0.558
+32,Male,Hyderabad,Vegetarian,1,4.61,Anniversary,Black Forest,1415.9,720,"cream, vanilla, chocolate, sugar",0.031
+40,Other,Bangalore,Vegetarian,19,1.93,Anniversary,Chocolate,1950.96,820,"almonds, pineapple, butter, strawberries, vanilla",0.461
+58,Male,Chennai,Eggetarian,15,4.23,Festival,Black Forest,1255.72,336,"vanilla, almonds, cream, eggs",0.463
+48,Male,Chennai,Non-Vegetarian,27,1.24,Custom,Strawberry,1515.08,353,"chocolate, eggs, milk, strawberries",0.544
+24,Male,Delhi,Eggetarian,17,4.6,Wedding,Mango,416.37,587,"milk, almonds, butter, cashews",0.671
+50,Female,Hyderabad,Eggetarian,7,3.6,Festival,Strawberry,1010.03,408,"vanilla, pineapple, almonds, butter",0.019
+28,Female,Bangalore,Vegetarian,2,4.5,Wedding,Red Velvet,497.81,471,"pineapple, chocolate, butter, cashews, almonds",0.502
+45,Other,Pune,Vegan,8,1.0,Custom,Vanilla,1341.75,342,"flour, vanilla, strawberries, butter",0.588
+62,Male,Hyderabad,Vegetarian,28,1.68,Anniversary,Strawberry,1895.42,810,"strawberries, pineapple, eggs, milk, almonds",0.343
+29,Male,Bangalore,Vegan,19,2.56,Wedding,Pineapple,1425.02,268,"strawberries, sugar, vanilla",0.668
+22,Female,Bangalore,Vegetarian,28,2.52,Birthday,Black Forest,430.57,446,"eggs, butter, sugar, mango",0.228
+28,Male,Mumbai,Eggetarian,5,1.91,Birthday,Vanilla,902.93,460,"almonds, eggs, strawberries, chocolate, butter",0.317
+37,Female,Pune,Vegetarian,9,2.53,Festival,Mango,1236.13,987,"strawberries, cashews, eggs, pineapple",0.963
+54,Male,Mumbai,Vegetarian,20,1.52,Custom,Pineapple,985.45,278,"strawberries, chocolate, mango, butter, pineapple",0.348
+35,Other,Delhi,Vegetarian,9,2.65,Festival,Strawberry,1717.19,857,"flour, eggs, vanilla, milk, mango",0.347
+30,Male,Mumbai,Eggetarian,12,4.21,Festival,Red Velvet,1684.94,822,"flour, almonds, mango, chocolate, vanilla",0.596
+59,Male,Kolkata,Eggetarian,16,2.92,Festival,Butterscotch,1340.11,969,"eggs, flour, cream, vanilla, milk",0.971
+32,Female,Mumbai,Eggetarian,8,1.07,Birthday,Red Velvet,934.88,804,"eggs, sugar, mango, cashews, milk",0.983
+61,Male,Kolkata,Eggetarian,16,2.69,Birthday,Pineapple,734.07,724,"pineapple, chocolate, cream, butter",0.58
+38,Male,Hyderabad,Vegan,23,1.11,Festival,Chocolate,479.99,971,"mango, strawberries, eggs, flour",0.001
+40,Female,Chennai,Vegan,8,4.86,Birthday,Strawberry,903.33,820,"mango, cashews, flour, cream, chocolate",0.901
+39,Other,Bangalore,Non-Vegetarian,8,1.51,Custom,Pineapple,1002.39,529,"cashews, strawberries, vanilla, chocolate, eggs",0.57
+59,Other,Kolkata,Eggetarian,0,3.83,Festival,Chocolate,1448.9,388,"strawberries, mango, milk",0.366
+55,Female,Pune,Vegan,1,4.89,Birthday,Chocolate,1418.87,294,"sugar, mango, cashews, pineapple, flour",0.829
+43,Female,Mumbai,Vegetarian,27,4.3,Wedding,Black Forest,419.18,816,"pineapple, eggs, sugar, flour, cream",0.4
+29,Female,Kolkata,Eggetarian,15,3.8,Festival,Vanilla,971.94,207,"eggs, cashews, butter, almonds",0.034
+59,Female,Pune,Non-Vegetarian,28,4.36,Festival,Black Forest,609.02,266,"strawberries, sugar, flour, cream",0.821
+15,Female,Chennai,Non-Vegetarian,0,4.93,Custom,Strawberry,566.58,695,"cream, milk, strawberries, flour",0.546
+39,Other,Chennai,Non-Vegetarian,9,3.49,Anniversary,Chocolate,1706.41,390,"chocolate, butter, sugar, mango, almonds",0.338
+21,Other,Mumbai,Vegetarian,17,3.24,Anniversary,Mango,371.26,565,"strawberries, mango, flour",0.251
+23,Female,Delhi,Vegan,25,3.51,Custom,Pineapple,1012.61,967,"sugar, pineapple, milk",0.594
+38,Male,Mumbai,Vegetarian,27,3.13,Custom,Butterscotch,585.95,720,"pineapple, sugar, eggs",0.208
+15,Female,Hyderabad,Eggetarian,7,3.54,Custom,Chocolate,1794.86,316,"chocolate, strawberries, butter",0.324
+58,Male,Kolkata,Non-Vegetarian,20,2.8,Anniversary,Pineapple,1246.97,466,"butter, chocolate, mango, sugar, pineapple",0.637
+22,Female,Bangalore,Vegetarian,27,1.87,Custom,Mango,693.35,810,"mango, pineapple, strawberries, flour",0.882
+38,Female,Delhi,Vegetarian,10,1.48,Birthday,Butterscotch,1154.13,684,"chocolate, milk, mango, strawberries",0.533
+25,Other,Mumbai,Vegan,22,1.27,Festival,Black Forest,1543.53,708,"cashews, eggs, pineapple, cream, butter",0.759
+31,Male,Pune,Vegan,1,2.05,Festival,Black Forest,1928.8,497,"chocolate, cream, cashews",0.763
+22,Male,Delhi,Non-Vegetarian,7,1.18,Wedding,Vanilla,674.76,363,"flour, sugar, eggs",0.664
+49,Other,Kolkata,Vegetarian,26,3.27,Wedding,Pineapple,1806.51,575,"vanilla, sugar, almonds",0.246
+49,Other,Delhi,Vegetarian,21,2.14,Festival,Chocolate,1888.32,852,"strawberries, pineapple, butter, almonds, eggs",0.867
+47,Other,Kolkata,Vegan,7,4.3,Birthday,Red Velvet,1857.91,467,"mango, cream, pineapple, milk",0.436
+19,Other,Mumbai,Vegetarian,16,1.3,Anniversary,Black Forest,1380.2,748,"cream, chocolate, almonds",0.044
+56,Male,Kolkata,Vegetarian,14,1.91,Anniversary,Black Forest,1370.7,273,"butter, flour, eggs, mango, strawberries",0.245
+53,Male,Delhi,Vegetarian,16,3.92,Birthday,Vanilla,985.46,707,"chocolate, cream, milk, butter",0.766
+55,Female,Pune,Vegan,27,3.4,Anniversary,Butterscotch,1579.08,272,"cashews, sugar, eggs, pineapple, cream",0.069
+42,Female,Chennai,Non-Vegetarian,22,1.26,Custom,Vanilla,1203.2,507,"flour, pineapple, eggs, sugar",0.147
+21,Other,Delhi,Eggetarian,23,4.51,Festival,Mango,1451.64,398,"pineapple, butter, cream, milk",0.694
+23,Other,Kolkata,Non-Vegetarian,12,4.51,Festival,Chocolate,1028.38,329,"milk, eggs, butter, vanilla",0.893
+22,Other,Chennai,Eggetarian,18,2.32,Birthday,Pineapple,1543.54,957,"cashews, butter, sugar",0.634
+26,Female,Kolkata,Vegetarian,4,2.36,Anniversary,Strawberry,1701.6,771,"flour, mango, cream",0.222
+48,Female,Pune,Non-Vegetarian,11,4.96,Wedding,Strawberry,548.94,990,"cashews, butter, eggs, sugar, milk",0.053
+47,Female,Kolkata,Eggetarian,0,3.5,Wedding,Pineapple,1715.98,814,"butter, cashews, cream",0.615
+62,Female,Mumbai,Vegan,22,3.13,Anniversary,Butterscotch,1218.5,686,"strawberries, sugar, chocolate",0.047
+37,Female,Bangalore,Vegan,4,4.35,Wedding,Mango,1735.93,350,"butter, vanilla, mango",0.613
+38,Female,Delhi,Non-Vegetarian,7,2.14,Birthday,Black Forest,1033.21,868,"butter, sugar, flour",0.226
+51,Female,Bangalore,Non-Vegetarian,12,2.72,Birthday,Butterscotch,944.37,405,"cashews, strawberries, milk",0.905
+49,Other,Kolkata,Vegetarian,7,2.07,Anniversary,Black Forest,1855.6,378,"strawberries, cream, vanilla",0.475
+58,Other,Pune,Non-Vegetarian,24,4.16,Wedding,Black Forest,726.99,396,"strawberries, eggs, almonds, cashews",0.224
+54,Other,Delhi,Vegetarian,22,3.29,Birthday,Strawberry,1735.16,934,"pineapple, mango, almonds, chocolate",0.853
+36,Other,Kolkata,Vegetarian,10,3.64,Birthday,Butterscotch,1122.83,288,"eggs, cashews, butter, vanilla",0.254
+41,Female,Chennai,Vegan,0,2.01,Custom,Mango,1173.96,998,"butter, mango, almonds, flour",0.307
+49,Male,Hyderabad,Vegan,12,1.88,Custom,Vanilla,824.4,633,"milk, sugar, almonds",0.834
+15,Female,Kolkata,Eggetarian,18,2.95,Birthday,Black Forest,1274.17,987,"eggs, cream, mango",0.309
+49,Male,Bangalore,Vegan,23,3.95,Anniversary,Red Velvet,852.86,947,"milk, cashews, cream, vanilla",0.41
+51,Other,Delhi,Vegan,2,3.1,Festival,Red Velvet,366.76,382,"pineapple, cashews, almonds",0.348
+61,Female,Bangalore,Non-Vegetarian,23,1.13,Festival,Vanilla,762.4,408,"butter, sugar, chocolate, cream, strawberries",0.116
+28,Other,Delhi,Vegan,16,4.47,Birthday,Red Velvet,310.84,692,"milk, almonds, cream",0.039
+17,Female,Kolkata,Eggetarian,4,1.26,Birthday,Chocolate,1963.2,329,"cream, mango, chocolate",0.725
+15,Other,Mumbai,Non-Vegetarian,19,4.82,Birthday,Black Forest,1941.77,864,"vanilla, mango, cream, sugar, almonds",0.645
+19,Male,Chennai,Eggetarian,20,1.1,Anniversary,Vanilla,971.76,212,"chocolate, strawberries, flour",0.282
+40,Male,Kolkata,Vegan,7,3.78,Custom,Butterscotch,1538.23,833,"chocolate, butter, eggs, almonds, milk",0.296
+28,Male,Bangalore,Eggetarian,25,1.33,Birthday,Black Forest,887.87,931,"vanilla, cream, chocolate, sugar",0.945
+53,Female,Hyderabad,Non-Vegetarian,13,4.64,Birthday,Vanilla,1440.86,305,"flour, chocolate, cashews, butter",0.988
+41,Male,Hyderabad,Vegetarian,3,2.86,Wedding,Strawberry,1669.23,574,"pineapple, eggs, vanilla, cashews",0.473
+23,Female,Pune,Eggetarian,10,1.55,Anniversary,Mango,1909.49,781,"cream, almonds, cashews",0.802
+29,Male,Delhi,Eggetarian,19,2.36,Birthday,Butterscotch,980.36,906,"pineapple, cream, cashews, butter",0.737
+29,Male,Bangalore,Non-Vegetarian,14,1.66,Wedding,Mango,1631.61,897,"almonds, strawberries, milk, cream",0.297
+40,Female,Pune,Non-Vegetarian,18,1.68,Festival,Strawberry,752.08,298,"chocolate, flour, cashews, almonds, sugar",0.059
+56,Female,Bangalore,Eggetarian,6,4.79,Birthday,Black Forest,1983.56,793,"vanilla, milk, chocolate, almonds",0.143
+27,Male,Delhi,Vegan,18,2.78,Birthday,Butterscotch,343.81,786,"mango, chocolate, pineapple",0.838
+46,Female,Kolkata,Eggetarian,27,4.16,Wedding,Mango,1326.0,391,"pineapple, chocolate, sugar, strawberries",0.731
+53,Male,Kolkata,Non-Vegetarian,18,3.56,Anniversary,Red Velvet,1421.16,524,"chocolate, mango, almonds, eggs",0.664
+63,Female,Hyderabad,Vegetarian,10,3.71,Birthday,Mango,1469.68,925,"mango, cream, milk",0.131
+46,Other,Kolkata,Vegetarian,25,1.53,Festival,Vanilla,504.66,666,"chocolate, vanilla, eggs, mango, cream",0.64
+18,Other,Kolkata,Vegan,4,1.94,Birthday,Black Forest,1895.5,566,"sugar, pineapple, almonds",0.772
+44,Other,Mumbai,Eggetarian,4,4.15,Festival,Chocolate,608.01,517,"eggs, strawberries, butter, mango, chocolate",0.861
+51,Other,Hyderabad,Vegetarian,29,4.88,Custom,Mango,1358.68,343,"vanilla, cashews, almonds, flour, strawberries",0.013
+37,Other,Pune,Eggetarian,21,2.05,Custom,Butterscotch,678.55,583,"cashews, flour, strawberries, milk, pineapple",0.684
+53,Male,Chennai,Non-Vegetarian,7,2.09,Festival,Butterscotch,822.27,415,"flour, sugar, pineapple, mango",0.019
+59,Other,Mumbai,Vegetarian,9,2.89,Anniversary,Pineapple,1228.98,560,"flour, almonds, vanilla, milk, butter",0.707
+29,Other,Pune,Vegan,5,4.94,Birthday,Mango,1009.23,523,"vanilla, strawberries, milk, cashews, almonds",0.636
+57,Other,Delhi,Non-Vegetarian,14,2.08,Birthday,Black Forest,572.38,214,"vanilla, milk, butter",0.148
+43,Other,Mumbai,Vegan,15,2.63,Custom,Black Forest,590.59,416,"cream, milk, eggs, mango",0.766
+50,Female,Pune,Non-Vegetarian,27,4.57,Festival,Strawberry,1010.85,691,"almonds, strawberries, sugar",0.068
+27,Male,Delhi,Vegetarian,16,1.01,Birthday,Pineapple,1587.38,746,"sugar, vanilla, chocolate, strawberries, cream",0.826
+46,Other,Hyderabad,Vegan,7,1.16,Birthday,Mango,1826.54,382,"strawberries, butter, almonds",0.262
+21,Other,Chennai,Vegan,7,3.42,Anniversary,Red Velvet,443.02,469,"cashews, eggs, mango",0.689
+36,Other,Delhi,Non-Vegetarian,24,4.63,Wedding,Strawberry,968.28,666,"vanilla, almonds, pineapple, flour, strawberries",0.924
+42,Male,Kolkata,Vegan,8,1.96,Custom,Pineapple,470.42,811,"vanilla, sugar, milk",0.34
+16,Female,Bangalore,Non-Vegetarian,1,2.88,Custom,Mango,328.21,718,"sugar, almonds, pineapple, butter, chocolate",0.503
+56,Male,Delhi,Non-Vegetarian,14,2.8,Wedding,Mango,1424.92,741,"eggs, almonds, strawberries, mango",0.463
+59,Female,Delhi,Non-Vegetarian,17,2.89,Birthday,Strawberry,1324.16,666,"cashews, flour, mango",0.158
+20,Other,Chennai,Non-Vegetarian,2,3.49,Anniversary,Red Velvet,577.13,504,"eggs, cream, sugar, strawberries",0.59
+42,Other,Bangalore,Vegetarian,16,2.88,Anniversary,Pineapple,697.48,343,"almonds, flour, cream, sugar",0.743
+42,Male,Kolkata,Non-Vegetarian,3,2.79,Custom,Mango,340.3,310,"almonds, pineapple, strawberries",0.917
+58,Male,Pune,Eggetarian,29,2.9,Anniversary,Mango,1719.41,431,"mango, chocolate, cream",0.851
+58,Female,Pune,Vegan,3,3.36,Wedding,Pineapple,1956.97,890,"cashews, almonds, cream, flour",0.51
+34,Female,Delhi,Eggetarian,13,3.15,Birthday,Chocolate,530.28,783,"almonds, butter, vanilla, cashews",0.719
+44,Male,Bangalore,Vegetarian,8,4.42,Wedding,Strawberry,693.51,921,"pineapple, milk, eggs, almonds",0.801
+25,Female,Bangalore,Eggetarian,8,1.2,Festival,Strawberry,1776.3,931,"cream, pineapple, sugar, mango, vanilla",0.493
+42,Male,Kolkata,Vegan,24,4.33,Custom,Butterscotch,1874.99,791,"chocolate, butter, pineapple, milk",0.115
+39,Female,Chennai,Eggetarian,25,4.38,Anniversary,Red Velvet,1013.37,699,"eggs, strawberries, sugar, mango",0.438
+53,Male,Hyderabad,Vegetarian,22,2.14,Festival,Vanilla,386.06,794,"eggs, butter, cream, sugar, strawberries",0.842
+47,Male,Pune,Non-Vegetarian,29,2.85,Anniversary,Chocolate,366.97,753,"almonds, sugar, eggs",0.597
+15,Male,Chennai,Eggetarian,17,2.75,Birthday,Pineapple,1275.71,472,"eggs, sugar, chocolate",0.724
+41,Female,Mumbai,Vegetarian,9,1.87,Birthday,Pineapple,967.92,902,"almonds, butter, pineapple, vanilla, sugar",0.185
+27,Female,Pune,Vegetarian,20,2.59,Birthday,Pineapple,348.71,372,"vanilla, butter, cream, chocolate, flour",0.964
+55,Female,Chennai,Vegan,3,1.18,Anniversary,Chocolate,1291.53,206,"pineapple, sugar, flour, vanilla",0.404
+17,Male,Pune,Vegan,11,2.11,Festival,Mango,319.21,354,"sugar, cashews, milk",0.654
+53,Female,Hyderabad,Eggetarian,26,4.27,Birthday,Pineapple,1638.53,721,"mango, sugar, pineapple",0.019
+20,Female,Mumbai,Non-Vegetarian,7,2.14,Festival,Pineapple,820.94,745,"strawberries, pineapple, sugar",0.127
+22,Male,Hyderabad,Vegetarian,1,4.27,Anniversary,Red Velvet,368.44,747,"strawberries, vanilla, cream",0.782
+41,Other,Kolkata,Eggetarian,21,3.13,Festival,Black Forest,1300.2,717,"eggs, mango, cream, milk",0.968
+23,Male,Mumbai,Vegetarian,12,4.52,Anniversary,Black Forest,976.06,414,"milk, mango, sugar, butter",0.32
+51,Female,Delhi,Vegetarian,20,3.3,Anniversary,Butterscotch,1955.46,333,"vanilla, eggs, pineapple, milk, butter",0.037
+47,Male,Chennai,Non-Vegetarian,15,1.12,Custom,Butterscotch,1225.14,484,"milk, cream, chocolate",0.361
+56,Other,Mumbai,Non-Vegetarian,27,3.7,Anniversary,Pineapple,767.91,325,"milk, almonds, strawberries",0.017
+58,Male,Kolkata,Eggetarian,1,1.18,Anniversary,Red Velvet,1506.05,638,"cashews, almonds, cream, milk",0.192
+38,Female,Kolkata,Non-Vegetarian,10,2.8,Wedding,Pineapple,761.54,885,"almonds, strawberries, eggs, sugar",0.752
+29,Other,Hyderabad,Non-Vegetarian,9,4.72,Birthday,Butterscotch,1837.21,351,"pineapple, chocolate, cream",0.937
+46,Female,Pune,Eggetarian,14,1.66,Custom,Chocolate,937.03,530,"strawberries, cream, chocolate, mango, pineapple",0.087
+46,Other,Mumbai,Non-Vegetarian,16,2.56,Custom,Chocolate,1234.78,737,"mango, almonds, chocolate, strawberries",0.558
+38,Other,Chennai,Vegan,7,3.92,Custom,Mango,385.97,582,"flour, sugar, chocolate",0.254
+55,Male,Mumbai,Vegetarian,17,4.53,Wedding,Vanilla,1024.41,314,"flour, strawberries, vanilla, almonds",0.139
+63,Male,Bangalore,Vegetarian,22,3.68,Anniversary,Black Forest,1715.02,681,"sugar, flour, butter, vanilla",0.219
+63,Female,Pune,Vegetarian,8,2.03,Birthday,Red Velvet,1669.6,483,"almonds, cashews, sugar, milk",0.578
+26,Male,Chennai,Vegetarian,24,3.7,Festival,Strawberry,681.34,274,"sugar, strawberries, mango, cream, flour",0.065
+53,Male,Chennai,Eggetarian,7,2.19,Anniversary,Black Forest,684.33,365,"cream, sugar, cashews",0.434
+16,Other,Delhi,Vegetarian,26,3.87,Wedding,Strawberry,1689.42,388,"sugar, vanilla, butter, pineapple",0.135
+17,Male,Hyderabad,Vegetarian,13,4.82,Anniversary,Vanilla,1881.68,277,"flour, mango, cream, milk",0.273
+63,Other,Delhi,Vegetarian,27,3.89,Anniversary,Vanilla,462.11,801,"eggs, butter, cream",0.191
+51,Other,Chennai,Vegetarian,25,4.45,Wedding,Pineapple,1065.1,887,"eggs, vanilla, milk, almonds, sugar",0.883
+63,Other,Pune,Vegan,24,1.01,Custom,Butterscotch,873.67,220,"cream, cashews, eggs, vanilla",0.708
+31,Female,Mumbai,Vegetarian,17,3.87,Custom,Vanilla,1780.17,765,"flour, sugar, milk, cashews, vanilla",0.868
+63,Female,Mumbai,Vegan,21,4.32,Birthday,Vanilla,441.99,383,"chocolate, strawberries, milk, vanilla",0.383
+16,Female,Pune,Eggetarian,19,1.16,Birthday,Strawberry,658.91,421,"mango, butter, pineapple, strawberries, chocolate",0.313
+16,Other,Chennai,Non-Vegetarian,29,4.49,Custom,Butterscotch,1579.2,527,"eggs, cream, strawberries, almonds, sugar",0.381
+42,Female,Kolkata,Vegetarian,19,2.03,Festival,Vanilla,387.2,378,"flour, vanilla, almonds, strawberries",0.019
+37,Female,Mumbai,Non-Vegetarian,20,3.66,Anniversary,Black Forest,1137.31,987,"butter, milk, sugar",0.725
+51,Male,Kolkata,Non-Vegetarian,11,4.2,Festival,Mango,1051.58,311,"almonds, strawberries, pineapple, milk, mango",0.35
+46,Female,Mumbai,Eggetarian,18,3.65,Anniversary,Vanilla,868.48,935,"chocolate, sugar, butter",0.313
+47,Female,Mumbai,Non-Vegetarian,13,1.37,Custom,Mango,970.77,925,"flour, strawberries, almonds, eggs",0.598
+15,Other,Hyderabad,Vegan,16,3.39,Birthday,Butterscotch,1200.9,258,"milk, mango, sugar",0.436
+33,Other,Hyderabad,Non-Vegetarian,23,3.2,Birthday,Pineapple,574.32,526,"chocolate, pineapple, mango, vanilla",0.981
+16,Other,Bangalore,Non-Vegetarian,20,4.6,Festival,Red Velvet,1272.39,820,"sugar, vanilla, almonds, butter, cashews",0.356
+58,Other,Delhi,Non-Vegetarian,2,2.62,Birthday,Butterscotch,1669.23,868,"pineapple, cream, flour, butter, chocolate",0.614
+40,Other,Pune,Vegetarian,25,2.28,Custom,Strawberry,1592.27,390,"eggs, sugar, cashews",0.312
+46,Other,Pune,Vegetarian,29,4.0,Festival,Red Velvet,561.63,399,"mango, almonds, butter, strawberries",0.991
+20,Female,Pune,Vegan,22,2.65,Anniversary,Black Forest,553.72,511,"butter, milk, almonds, mango",0.445
+46,Other,Bangalore,Vegan,6,3.58,Birthday,Chocolate,755.9,907,"pineapple, butter, cream, strawberries, mango",0.634
+18,Other,Hyderabad,Vegetarian,16,3.59,Wedding,Mango,913.83,234,"milk, cream, almonds, vanilla, sugar",0.127
+25,Male,Chennai,Vegan,11,4.55,Birthday,Mango,994.37,578,"eggs, chocolate, vanilla",0.733
+31,Female,Kolkata,Vegetarian,8,3.39,Anniversary,Mango,1455.49,586,"eggs, vanilla, milk, chocolate",0.269
+52,Female,Kolkata,Eggetarian,14,3.01,Festival,Butterscotch,396.36,957,"almonds, cream, sugar",0.449
+38,Female,Chennai,Non-Vegetarian,17,1.56,Anniversary,Mango,358.94,436,"strawberries, butter, sugar, milk",0.883
+19,Other,Bangalore,Non-Vegetarian,20,1.46,Wedding,Pineapple,966.25,815,"eggs, cream, cashews, almonds, milk",0.971
+48,Other,Chennai,Vegan,12,1.62,Custom,Mango,1485.18,718,"milk, vanilla, flour, butter, almonds",0.425
+20,Other,Pune,Vegetarian,29,1.69,Birthday,Strawberry,628.84,482,"almonds, cream, strawberries, sugar, pineapple",0.835
+36,Male,Delhi,Vegetarian,20,3.55,Festival,Black Forest,1390.56,200,"cashews, milk, cream, chocolate, mango",0.053
+25,Other,Mumbai,Vegan,29,3.96,Custom,Mango,741.71,930,"flour, strawberries, mango",0.848
+62,Male,Kolkata,Vegetarian,7,3.12,Anniversary,Mango,1806.35,663,"almonds, cashews, cream",0.63
+30,Female,Hyderabad,Eggetarian,13,4.32,Festival,Red Velvet,1822.67,429,"vanilla, eggs, butter, sugar, mango",0.489
+47,Other,Hyderabad,Non-Vegetarian,7,4.97,Custom,Black Forest,805.39,371,"pineapple, eggs, almonds",0.89
+23,Male,Bangalore,Vegan,13,4.28,Festival,Mango,690.99,286,"milk, flour, cashews, vanilla, sugar",0.845
+20,Male,Hyderabad,Vegan,6,3.78,Wedding,Butterscotch,999.22,752,"eggs, cream, pineapple",0.297
+30,Other,Pune,Vegetarian,22,3.13,Wedding,Vanilla,708.9,322,"milk, flour, eggs",0.791
+43,Female,Kolkata,Vegan,11,2.8,Birthday,Pineapple,1443.05,497,"vanilla, eggs, pineapple, milk",0.099
+17,Female,Chennai,Eggetarian,10,1.34,Birthday,Butterscotch,1704.31,889,"strawberries, cream, butter, sugar, mango",0.823
+34,Female,Pune,Vegetarian,21,2.6,Wedding,Chocolate,1444.26,774,"butter, chocolate, cream, eggs, almonds",0.675
+50,Male,Bangalore,Vegetarian,21,4.64,Festival,Butterscotch,1701.4,683,"eggs, flour, strawberries",0.088
+33,Male,Pune,Vegetarian,10,4.23,Wedding,Red Velvet,974.89,364,"pineapple, eggs, strawberries",0.683
+40,Male,Chennai,Vegetarian,24,1.86,Birthday,Red Velvet,565.74,898,"vanilla, flour, cashews",0.581
+17,Male,Delhi,Eggetarian,21,2.87,Wedding,Mango,1554.52,582,"pineapple, strawberries, flour, sugar, butter",0.595
+33,Female,Bangalore,Vegetarian,27,4.27,Wedding,Butterscotch,912.81,408,"mango, strawberries, chocolate, flour, pineapple",0.291
+34,Other,Delhi,Vegan,28,1.27,Festival,Red Velvet,1441.16,938,"eggs, almonds, flour, strawberries, chocolate",0.266
+46,Male,Mumbai,Eggetarian,12,2.55,Custom,Vanilla,760.09,631,"almonds, cream, milk, butter, chocolate",0.763
+21,Male,Delhi,Non-Vegetarian,17,4.41,Birthday,Black Forest,438.09,588,"cream, butter, chocolate",0.257
+55,Female,Mumbai,Non-Vegetarian,1,2.62,Festival,Butterscotch,1987.39,759,"flour, mango, sugar",0.446
+47,Other,Mumbai,Vegan,28,1.31,Wedding,Pineapple,565.54,423,"milk, flour, mango, vanilla, pineapple",0.695
+54,Other,Delhi,Vegan,20,3.17,Wedding,Vanilla,1980.32,202,"milk, flour, chocolate, sugar, mango",0.08
+53,Female,Bangalore,Eggetarian,14,4.45,Custom,Mango,1961.38,571,"milk, cashews, strawberries, chocolate, mango",0.595
+32,Female,Chennai,Non-Vegetarian,19,3.36,Birthday,Black Forest,1649.49,886,"chocolate, almonds, eggs, milk, butter",0.589
+54,Other,Pune,Non-Vegetarian,26,1.91,Birthday,Pineapple,1421.02,645,"sugar, eggs, cashews, cream",0.684
+15,Male,Pune,Non-Vegetarian,17,2.54,Anniversary,Mango,1282.27,810,"cashews, butter, milk, flour",0.37
+25,Other,Chennai,Non-Vegetarian,14,2.8,Birthday,Pineapple,1772.37,315,"butter, mango, cashews, cream, chocolate",0.449
+42,Female,Kolkata,Non-Vegetarian,18,3.32,Custom,Mango,792.05,469,"eggs, pineapple, almonds",0.33
+39,Male,Kolkata,Vegetarian,22,4.04,Anniversary,Pineapple,1095.06,646,"milk, cashews, vanilla",0.808
+64,Male,Mumbai,Vegan,23,1.4,Anniversary,Black Forest,1352.96,567,"cream, milk, pineapple, strawberries, flour",0.131
+37,Female,Mumbai,Vegetarian,11,4.56,Wedding,Vanilla,999.02,452,"butter, cream, flour, chocolate, vanilla",0.963
+45,Female,Bangalore,Non-Vegetarian,12,1.05,Wedding,Pineapple,1026.73,516,"almonds, flour, mango, chocolate",0.635
+44,Female,Hyderabad,Eggetarian,21,2.48,Birthday,Pineapple,861.48,614,"flour, strawberries, sugar",0.887
+56,Other,Delhi,Eggetarian,10,1.11,Anniversary,Strawberry,1259.19,294,"mango, vanilla, butter, strawberries, cream",0.426
+49,Other,Mumbai,Non-Vegetarian,4,2.57,Wedding,Butterscotch,1745.98,984,"strawberries, pineapple, chocolate, mango",0.332
+21,Male,Pune,Non-Vegetarian,28,3.1,Custom,Black Forest,642.6,223,"milk, almonds, sugar",0.901
+30,Female,Bangalore,Eggetarian,0,3.05,Wedding,Mango,1888.54,827,"strawberries, cashews, vanilla, eggs, cream",0.099
+40,Male,Delhi,Vegetarian,23,1.66,Wedding,Black Forest,1471.45,862,"eggs, cream, vanilla",0.117
+62,Male,Bangalore,Vegetarian,2,3.58,Anniversary,Red Velvet,1699.56,249,"cream, almonds, eggs",0.299
+63,Male,Delhi,Non-Vegetarian,21,1.18,Anniversary,Mango,1245.52,701,"almonds, milk, pineapple, eggs",0.96
+16,Male,Delhi,Vegetarian,18,4.05,Festival,Black Forest,1625.18,917,"flour, strawberries, cream, milk",0.633
+15,Female,Chennai,Eggetarian,22,4.79,Custom,Vanilla,327.54,697,"mango, butter, vanilla, chocolate",0.554
+62,Male,Mumbai,Vegetarian,28,2.36,Anniversary,Mango,1691.25,534,"sugar, eggs, vanilla, cream",0.705
+26,Female,Bangalore,Non-Vegetarian,29,3.07,Birthday,Mango,368.24,278,"butter, vanilla, flour, milk, sugar",0.417
+19,Female,Bangalore,Eggetarian,6,2.52,Custom,Black Forest,1812.85,781,"sugar, milk, eggs",0.758
+51,Other,Chennai,Vegetarian,11,1.03,Custom,Mango,1986.34,226,"mango, strawberries, flour, milk, almonds",0.393
+46,Female,Pune,Vegan,14,2.54,Anniversary,Strawberry,799.91,470,"milk, almonds, butter, chocolate, cream",0.826
+23,Other,Pune,Eggetarian,24,4.17,Custom,Butterscotch,657.54,761,"flour, sugar, cashews, chocolate, vanilla",0.267
+55,Female,Kolkata,Eggetarian,4,3.38,Anniversary,Mango,1601.12,446,"eggs, flour, strawberries, cashews",0.278
+49,Female,Mumbai,Vegan,14,1.41,Wedding,Butterscotch,730.14,975,"mango, cream, milk, strawberries, butter",0.522
+33,Female,Mumbai,Vegan,7,4.39,Festival,Black Forest,1771.46,790,"flour, cashews, sugar, almonds",0.431
+62,Other,Hyderabad,Eggetarian,9,3.12,Wedding,Pineapple,474.83,586,"eggs, pineapple, sugar, milk, almonds",0.648
+30,Other,Chennai,Vegan,25,4.37,Anniversary,Chocolate,514.12,901,"eggs, pineapple, chocolate",0.364
+17,Male,Pune,Non-Vegetarian,15,3.32,Anniversary,Chocolate,1964.56,758,"cream, almonds, eggs, butter, pineapple",0.231
+34,Other,Delhi,Non-Vegetarian,7,3.24,Wedding,Pineapple,1445.53,560,"vanilla, milk, butter, eggs, flour",0.47
+38,Other,Bangalore,Non-Vegetarian,0,1.42,Birthday,Pineapple,1739.71,687,"flour, mango, sugar, milk",0.561
+47,Other,Mumbai,Eggetarian,11,1.67,Birthday,Pineapple,851.36,551,"sugar, vanilla, butter, milk, flour",0.143
+38,Other,Bangalore,Vegan,4,4.89,Birthday,Vanilla,1450.02,900,"cream, mango, vanilla, cashews, milk",0.557
+25,Male,Bangalore,Vegan,2,1.91,Anniversary,Chocolate,1310.21,455,"almonds, vanilla, butter",0.319
+63,Other,Hyderabad,Vegetarian,0,4.91,Custom,Pineapple,1325.36,421,"milk, pineapple, flour, eggs, strawberries",0.392
+22,Female,Pune,Vegetarian,3,3.13,Anniversary,Vanilla,1460.31,952,"butter, sugar, eggs, cashews",0.279
+50,Female,Mumbai,Vegan,7,1.54,Custom,Red Velvet,1278.11,980,"strawberries, pineapple, flour, butter, cashews",0.931
+52,Other,Bangalore,Vegan,2,1.4,Wedding,Mango,1029.41,200,"strawberries, sugar, mango, milk, pineapple",0.683
+54,Other,Mumbai,Vegan,9,1.84,Festival,Vanilla,769.07,745,"mango, almonds, flour, strawberries, vanilla",0.262
+34,Female,Delhi,Eggetarian,1,4.7,Custom,Chocolate,1606.59,645,"eggs, milk, cream, pineapple, vanilla",0.645
+49,Female,Hyderabad,Vegan,10,2.66,Birthday,Black Forest,684.66,278,"eggs, milk, butter, mango",0.849
+62,Male,Delhi,Vegetarian,24,2.58,Anniversary,Red Velvet,1477.0,435,"mango, strawberries, sugar, cashews, flour",0.402
+39,Female,Mumbai,Eggetarian,9,2.25,Wedding,Chocolate,696.67,533,"mango, sugar, milk",0.83
+49,Female,Kolkata,Vegan,20,1.59,Birthday,Mango,1363.06,548,"sugar, cashews, pineapple, eggs",0.154
+39,Other,Mumbai,Vegetarian,13,2.95,Wedding,Vanilla,1570.03,297,"vanilla, almonds, mango, milk, chocolate",0.823
+43,Female,Pune,Eggetarian,6,1.52,Festival,Strawberry,671.81,281,"milk, chocolate, mango, cream, pineapple",0.54
+32,Male,Bangalore,Vegan,26,4.34,Anniversary,Butterscotch,401.9,701,"vanilla, milk, cashews, eggs",0.223
+60,Female,Bangalore,Vegan,26,2.48,Anniversary,Mango,522.66,676,"cashews, milk, cream",0.407
+32,Other,Delhi,Vegan,1,2.5,Festival,Chocolate,1330.19,903,"butter, milk, sugar, almonds",0.988
+16,Other,Hyderabad,Eggetarian,8,2.9,Anniversary,Pineapple,1744.06,964,"butter, sugar, almonds, strawberries, milk",0.784
+49,Female,Kolkata,Vegetarian,15,2.78,Custom,Vanilla,376.49,749,"milk, vanilla, pineapple",0.575
+30,Other,Chennai,Vegetarian,12,4.98,Wedding,Pineapple,1548.06,213,"mango, cream, milk",0.115
+55,Male,Bangalore,Non-Vegetarian,8,3.18,Birthday,Pineapple,880.24,591,"flour, almonds, mango, cashews, milk",0.418
+50,Male,Pune,Vegan,19,1.35,Festival,Pineapple,1113.5,546,"butter, strawberries, cashews, mango",0.263
+47,Female,Delhi,Non-Vegetarian,3,3.43,Custom,Pineapple,1879.06,509,"sugar, cashews, mango",0.071
+18,Female,Delhi,Non-Vegetarian,21,1.61,Birthday,Pineapple,864.35,585,"almonds, eggs, vanilla",0.542
+47,Female,Chennai,Vegetarian,9,1.12,Birthday,Red Velvet,1091.07,408,"milk, flour, butter, vanilla, pineapple",0.889
+28,Other,Pune,Eggetarian,25,4.88,Festival,Chocolate,323.26,556,"eggs, strawberries, almonds",0.676
+35,Male,Hyderabad,Eggetarian,25,4.09,Custom,Mango,438.72,800,"chocolate, mango, eggs",0.25
+62,Male,Pune,Vegetarian,21,4.92,Birthday,Chocolate,739.61,767,"milk, cashews, flour, strawberries, almonds",0.574
+34,Other,Hyderabad,Eggetarian,11,2.91,Birthday,Mango,347.35,293,"cashews, vanilla, milk, eggs, sugar",0.943
+22,Male,Pune,Non-Vegetarian,16,3.13,Custom,Butterscotch,1373.34,292,"cream, chocolate, mango, vanilla, almonds",0.723
+21,Female,Pune,Vegan,13,1.67,Anniversary,Vanilla,1024.88,539,"butter, sugar, chocolate, flour, vanilla",0.689
+17,Female,Mumbai,Vegetarian,13,1.99,Birthday,Strawberry,1231.85,796,"cashews, pineapple, milk",0.968
+31,Female,Delhi,Vegan,24,4.35,Wedding,Red Velvet,596.9,644,"cream, almonds, flour, vanilla, mango",0.799
+47,Male,Pune,Eggetarian,1,2.42,Custom,Vanilla,803.08,956,"almonds, chocolate, vanilla, milk, pineapple",0.137
+62,Female,Chennai,Vegan,20,4.31,Birthday,Red Velvet,1428.5,221,"strawberries, milk, sugar, chocolate, eggs",0.348
+26,Other,Pune,Eggetarian,24,3.84,Festival,Mango,1941.01,490,"sugar, milk, strawberries",0.965
+36,Other,Bangalore,Eggetarian,19,1.71,Wedding,Chocolate,385.71,684,"sugar, butter, cashews",0.49
+36,Male,Delhi,Non-Vegetarian,10,3.03,Birthday,Pineapple,1813.65,983,"butter, pineapple, sugar, mango",0.112
+60,Other,Bangalore,Eggetarian,15,3.71,Wedding,Butterscotch,1280.7,505,"milk, pineapple, cream",0.459
+44,Other,Delhi,Non-Vegetarian,18,1.94,Wedding,Butterscotch,1258.66,833,"sugar, mango, almonds, vanilla, milk",0.697
+52,Male,Bangalore,Non-Vegetarian,22,4.32,Anniversary,Black Forest,1150.47,327,"cream, vanilla, flour",0.998
+52,Female,Pune,Non-Vegetarian,5,3.18,Wedding,Strawberry,417.97,824,"mango, sugar, eggs",0.324
+59,Female,Pune,Vegetarian,23,1.66,Anniversary,Butterscotch,452.79,472,"cashews, eggs, pineapple, flour, butter",0.514
+22,Female,Mumbai,Vegetarian,18,3.33,Custom,Pineapple,1321.55,641,"cashews, butter, eggs",0.88
+41,Male,Chennai,Eggetarian,4,5.0,Anniversary,Chocolate,879.63,702,"strawberries, chocolate, cream, eggs, milk",0.355
+41,Other,Bangalore,Non-Vegetarian,25,1.6,Festival,Strawberry,1859.36,329,"butter, pineapple, milk, vanilla, mango",0.109
+48,Female,Hyderabad,Vegetarian,3,4.27,Birthday,Mango,991.2,331,"pineapple, mango, cashews, almonds, chocolate",0.949
+35,Female,Mumbai,Non-Vegetarian,14,1.83,Custom,Vanilla,543.58,796,"flour, eggs, butter, pineapple, chocolate",0.488
+44,Male,Bangalore,Vegan,28,4.13,Custom,Mango,1515.02,681,"cream, flour, strawberries, milk",0.503
+47,Female,Bangalore,Vegan,3,3.94,Festival,Pineapple,798.7,589,"cream, mango, almonds",0.621
+42,Male,Mumbai,Vegan,19,2.2,Anniversary,Pineapple,1193.3,792,"vanilla, flour, mango, butter",0.004
+61,Other,Pune,Eggetarian,9,2.3,Birthday,Butterscotch,1486.32,524,"vanilla, mango, cashews, sugar",0.931
+47,Male,Bangalore,Non-Vegetarian,23,4.17,Anniversary,Strawberry,1830.45,268,"sugar, milk, cashews, pineapple",0.361
+19,Male,Pune,Vegan,21,2.85,Wedding,Chocolate,1646.73,859,"cream, flour, vanilla, eggs, pineapple",0.397
+62,Male,Mumbai,Vegetarian,2,3.92,Anniversary,Mango,1449.81,647,"eggs, butter, mango, cashews, strawberries",0.174
+33,Male,Pune,Vegan,25,1.59,Custom,Black Forest,1455.38,727,"cashews, cream, flour, vanilla, sugar",0.378
+18,Other,Delhi,Vegan,4,4.41,Birthday,Mango,1908.07,816,"vanilla, flour, eggs, strawberries, mango",0.804
+49,Other,Hyderabad,Vegan,5,3.84,Anniversary,Red Velvet,802.9,364,"strawberries, vanilla, butter",0.8
+63,Female,Kolkata,Eggetarian,20,4.63,Birthday,Red Velvet,301.89,687,"chocolate, almonds, cream, eggs",0.936
+31,Other,Bangalore,Vegetarian,21,1.53,Birthday,Chocolate,762.32,912,"strawberries, vanilla, chocolate, almonds",0.403
+58,Other,Chennai,Non-Vegetarian,7,3.37,Wedding,Chocolate,670.42,908,"butter, chocolate, flour",0.709
+42,Female,Hyderabad,Vegetarian,6,3.4,Wedding,Red Velvet,1425.12,625,"butter, mango, eggs, strawberries",0.507
+44,Other,Kolkata,Non-Vegetarian,20,2.41,Custom,Black Forest,1377.31,896,"almonds, milk, chocolate",0.804
+43,Male,Pune,Eggetarian,9,2.83,Festival,Strawberry,1308.88,464,"sugar, mango, pineapple",0.713
+60,Male,Bangalore,Eggetarian,5,1.15,Birthday,Red Velvet,327.61,811,"pineapple, milk, eggs, sugar, chocolate",0.368
+20,Female,Pune,Eggetarian,13,3.98,Festival,Chocolate,1538.92,541,"mango, cashews, strawberries",0.337
+49,Female,Delhi,Eggetarian,3,3.2,Custom,Butterscotch,850.0,925,"flour, chocolate, strawberries, almonds",0.252
+55,Female,Mumbai,Non-Vegetarian,27,1.23,Birthday,Vanilla,1430.6,477,"chocolate, mango, cashews, milk",0.577
+51,Male,Bangalore,Vegan,24,3.72,Birthday,Black Forest,1246.18,873,"milk, butter, eggs, flour, pineapple",0.964
+38,Other,Kolkata,Non-Vegetarian,12,2.87,Festival,Pineapple,882.64,638,"almonds, cream, butter, strawberries",0.2
+43,Male,Kolkata,Vegetarian,19,1.14,Anniversary,Black Forest,528.78,356,"flour, vanilla, milk",0.095
+63,Female,Delhi,Eggetarian,16,4.88,Wedding,Butterscotch,460.51,621,"milk, almonds, cashews, vanilla, pineapple",0.119
+60,Other,Delhi,Eggetarian,22,4.8,Anniversary,Butterscotch,1713.58,450,"milk, flour, cashews, butter",0.783
+45,Other,Bangalore,Vegetarian,6,3.05,Festival,Pineapple,1861.28,808,"eggs, butter, strawberries, sugar",0.35
+49,Male,Pune,Non-Vegetarian,3,1.37,Wedding,Mango,1404.64,729,"sugar, eggs, strawberries, cream, pineapple",0.224
+47,Female,Chennai,Vegan,28,4.02,Anniversary,Chocolate,475.84,526,"strawberries, chocolate, milk, vanilla, sugar",0.353
+35,Male,Kolkata,Vegan,13,2.97,Wedding,Red Velvet,983.45,296,"sugar, cream, pineapple",0.645
+46,Other,Kolkata,Vegetarian,2,2.21,Birthday,Mango,1539.2,712,"almonds, eggs, sugar, cream, pineapple",0.547
+37,Male,Delhi,Vegan,23,2.97,Anniversary,Strawberry,1625.7,415,"milk, almonds, cream, vanilla",0.744
+47,Male,Hyderabad,Non-Vegetarian,4,3.09,Wedding,Black Forest,500.97,331,"sugar, pineapple, cashews, flour, butter",0.339
+17,Female,Delhi,Non-Vegetarian,15,3.25,Wedding,Pineapple,300.05,459,"sugar, eggs, cream, milk",0.452
+32,Female,Chennai,Vegetarian,25,2.76,Wedding,Black Forest,1510.63,324,"pineapple, milk, almonds, vanilla",0.102
+39,Other,Pune,Non-Vegetarian,22,3.42,Anniversary,Mango,906.21,281,"milk, almonds, sugar, butter",0.073
+56,Male,Pune,Eggetarian,19,4.67,Custom,Butterscotch,732.62,482,"chocolate, cream, cashews, eggs, flour",0.462
+45,Male,Hyderabad,Vegetarian,3,2.45,Anniversary,Red Velvet,321.93,882,"butter, almonds, cashews, mango",0.302
+17,Male,Kolkata,Non-Vegetarian,23,3.9,Festival,Black Forest,1218.51,258,"cream, almonds, cashews, mango, flour",0.613
+54,Other,Delhi,Vegetarian,29,4.58,Anniversary,Strawberry,1746.96,743,"vanilla, pineapple, flour, butter, cream",0.043
+60,Other,Pune,Vegan,23,2.82,Wedding,Butterscotch,1927.97,360,"flour, mango, vanilla, eggs, cashews",0.122
+38,Female,Chennai,Non-Vegetarian,1,2.77,Birthday,Strawberry,1261.77,483,"butter, strawberries, almonds, milk",0.865
+64,Female,Bangalore,Eggetarian,29,3.41,Anniversary,Red Velvet,1174.58,305,"mango, cashews, butter, flour, milk",0.566
+46,Female,Mumbai,Non-Vegetarian,17,3.37,Anniversary,Black Forest,444.6,304,"strawberries, mango, chocolate",0.712
+61,Male,Mumbai,Vegetarian,18,4.23,Wedding,Vanilla,1233.08,638,"butter, sugar, chocolate, almonds",0.842
+36,Male,Mumbai,Vegetarian,27,2.91,Birthday,Mango,945.96,427,"strawberries, vanilla, sugar, flour, chocolate",0.464
+37,Female,Kolkata,Non-Vegetarian,27,4.98,Birthday,Black Forest,1332.13,899,"milk, almonds, cashews, mango",0.761
+16,Male,Delhi,Eggetarian,18,1.24,Festival,Mango,960.83,781,"chocolate, sugar, vanilla, flour",0.525
+41,Female,Hyderabad,Eggetarian,16,1.01,Anniversary,Red Velvet,708.51,517,"strawberries, eggs, vanilla, mango",0.223
+56,Other,Pune,Eggetarian,13,3.56,Birthday,Black Forest,461.44,663,"eggs, almonds, vanilla, pineapple, chocolate",0.338
+16,Female,Bangalore,Vegetarian,18,2.19,Birthday,Mango,835.36,798,"mango, eggs, flour, cream",0.49
+40,Other,Chennai,Non-Vegetarian,21,1.96,Custom,Pineapple,464.3,671,"butter, mango, chocolate, cream",0.317
+31,Male,Bangalore,Vegan,23,2.25,Custom,Mango,600.72,255,"strawberries, sugar, eggs",0.336
+54,Female,Chennai,Vegetarian,12,2.02,Birthday,Black Forest,1978.47,824,"flour, milk, butter, pineapple",0.337
+47,Male,Kolkata,Eggetarian,11,1.12,Festival,Chocolate,1054.98,212,"butter, flour, vanilla",0.123
+23,Other,Delhi,Non-Vegetarian,29,4.89,Birthday,Black Forest,1204.18,639,"butter, eggs, cream, pineapple",0.085
+57,Other,Mumbai,Eggetarian,25,1.88,Wedding,Black Forest,1785.15,217,"pineapple, vanilla, chocolate, butter, milk",0.046
+62,Other,Delhi,Vegan,5,3.94,Anniversary,Mango,1992.47,893,"sugar, flour, almonds, chocolate, strawberries",0.111
+53,Male,Kolkata,Eggetarian,20,4.05,Festival,Strawberry,1290.61,312,"sugar, vanilla, strawberries",0.344
+43,Male,Hyderabad,Eggetarian,3,4.72,Wedding,Vanilla,1681.21,428,"vanilla, cream, sugar",0.594
+56,Male,Hyderabad,Vegan,18,1.12,Festival,Strawberry,855.8,370,"milk, strawberries, vanilla, chocolate",0.188
+40,Male,Kolkata,Non-Vegetarian,15,4.49,Wedding,Mango,819.76,494,"flour, cashews, vanilla, sugar",0.888
+49,Other,Chennai,Vegetarian,12,3.11,Anniversary,Strawberry,984.6,388,"eggs, cream, butter, chocolate, cashews",0.808
+64,Other,Pune,Non-Vegetarian,3,3.53,Anniversary,Butterscotch,1443.26,625,"sugar, pineapple, flour, vanilla, cream",0.521
+39,Female,Pune,Vegan,29,3.58,Custom,Chocolate,1459.73,278,"flour, chocolate, mango, vanilla, cashews",0.724
+38,Female,Chennai,Eggetarian,22,4.28,Wedding,Strawberry,835.91,857,"mango, chocolate, almonds",0.366
+27,Male,Hyderabad,Non-Vegetarian,16,2.33,Custom,Pineapple,526.46,381,"sugar, vanilla, cream",0.037
+21,Other,Hyderabad,Vegetarian,22,3.93,Wedding,Red Velvet,1375.07,698,"vanilla, pineapple, almonds, chocolate",0.904
+50,Other,Hyderabad,Vegan,0,3.11,Custom,Pineapple,518.15,997,"vanilla, chocolate, milk, strawberries, mango",0.128
+59,Other,Delhi,Non-Vegetarian,17,4.17,Anniversary,Red Velvet,1283.44,961,"strawberries, mango, vanilla, butter, cashews",0.948
+34,Female,Hyderabad,Vegetarian,19,4.96,Festival,Black Forest,1478.82,907,"butter, cream, eggs, pineapple, vanilla",0.572
+15,Female,Bangalore,Vegan,16,1.8,Custom,Butterscotch,1491.04,270,"vanilla, pineapple, butter",0.306
+22,Other,Mumbai,Vegetarian,26,4.98,Wedding,Chocolate,1580.9,447,"almonds, cashews, flour, mango, cream",0.496
+60,Other,Hyderabad,Vegan,27,1.36,Wedding,Pineapple,1783.86,345,"strawberries, vanilla, butter, pineapple",0.502
+30,Other,Chennai,Eggetarian,26,1.01,Anniversary,Chocolate,1149.93,817,"strawberries, almonds, cashews, flour, vanilla",0.023
+28,Female,Mumbai,Non-Vegetarian,14,1.18,Wedding,Pineapple,1541.42,974,"flour, milk, eggs",0.355
+26,Other,Delhi,Vegetarian,10,2.37,Birthday,Black Forest,1352.59,495,"almonds, vanilla, butter, chocolate, sugar",0.74
+37,Other,Chennai,Vegan,24,3.53,Festival,Red Velvet,617.29,781,"eggs, flour, mango, butter",0.51
+29,Male,Mumbai,Vegetarian,27,1.28,Custom,Vanilla,343.67,669,"chocolate, sugar, almonds",0.244
+42,Male,Chennai,Vegetarian,21,1.02,Festival,Butterscotch,783.72,705,"vanilla, cashews, eggs, strawberries",0.335
+48,Female,Delhi,Non-Vegetarian,12,4.75,Anniversary,Pineapple,1053.16,392,"strawberries, milk, mango",0.863
+16,Other,Bangalore,Eggetarian,0,4.29,Custom,Pineapple,1349.08,267,"vanilla, cream, strawberries, chocolate",0.526
+46,Other,Delhi,Vegetarian,16,4.24,Custom,Black Forest,1744.93,693,"vanilla, almonds, sugar",0.528
+37,Male,Delhi,Vegan,5,4.54,Birthday,Butterscotch,633.62,251,"mango, chocolate, cashews",0.961
+36,Female,Chennai,Vegan,3,3.8,Anniversary,Red Velvet,513.43,562,"mango, milk, chocolate",0.321
+39,Male,Kolkata,Eggetarian,19,1.42,Wedding,Red Velvet,1937.92,996,"flour, cream, cashews, pineapple",0.48
+36,Male,Pune,Vegan,15,2.6,Birthday,Pineapple,483.68,673,"vanilla, chocolate, milk, pineapple",0.812
+36,Male,Hyderabad,Eggetarian,14,3.89,Birthday,Vanilla,1113.43,720,"cashews, vanilla, butter, strawberries, milk",0.759
+63,Male,Hyderabad,Vegan,26,2.12,Festival,Vanilla,1295.46,962,"mango, vanilla, cream",0.266
+56,Other,Bangalore,Non-Vegetarian,14,3.75,Festival,Chocolate,1220.34,630,"pineapple, cashews, flour",0.151
+20,Other,Bangalore,Vegetarian,5,1.1,Festival,Butterscotch,446.25,497,"flour, sugar, mango, milk, eggs",0.701
+29,Male,Hyderabad,Non-Vegetarian,14,2.22,Birthday,Butterscotch,396.95,634,"butter, flour, pineapple, vanilla",0.258
+57,Female,Pune,Vegetarian,13,3.2,Wedding,Red Velvet,479.32,895,"vanilla, flour, eggs, chocolate, milk",0.923
+51,Female,Hyderabad,Vegetarian,27,3.53,Custom,Chocolate,1295.5,890,"cashews, eggs, almonds, pineapple",0.129
+47,Female,Kolkata,Vegetarian,10,3.31,Festival,Black Forest,1225.39,397,"pineapple, flour, chocolate, cream",0.318
+22,Female,Pune,Non-Vegetarian,6,3.79,Wedding,Butterscotch,697.36,327,"chocolate, cream, flour, butter, pineapple",0.055
+58,Male,Bangalore,Vegetarian,8,1.02,Anniversary,Chocolate,1384.22,731,"cream, eggs, chocolate, flour, cashews",0.703
+58,Other,Mumbai,Non-Vegetarian,25,1.4,Festival,Chocolate,1694.11,610,"almonds, cashews, flour, sugar, mango",0.891
+19,Female,Chennai,Eggetarian,15,4.48,Custom,Pineapple,370.68,264,"almonds, cream, eggs",0.636
+53,Male,Kolkata,Vegan,4,3.73,Anniversary,Red Velvet,1146.82,893,"cream, pineapple, vanilla",0.938
+18,Female,Kolkata,Vegan,24,1.45,Anniversary,Chocolate,1471.83,440,"mango, milk, sugar, butter",0.129
+20,Female,Bangalore,Vegetarian,19,4.37,Custom,Mango,728.93,568,"pineapple, vanilla, eggs",0.088
+59,Male,Bangalore,Non-Vegetarian,28,1.97,Festival,Vanilla,823.21,735,"mango, milk, almonds",0.838
+46,Other,Delhi,Vegan,9,2.91,Birthday,Mango,1343.18,583,"cream, strawberries, almonds, vanilla, mango",0.856
+44,Other,Kolkata,Non-Vegetarian,17,1.58,Custom,Vanilla,1826.49,630,"almonds, sugar, cashews",0.831
+61,Male,Delhi,Non-Vegetarian,2,3.84,Custom,Strawberry,1676.87,282,"cashews, sugar, milk, pineapple, mango",0.799
+49,Other,Delhi,Vegetarian,12,3.67,Custom,Red Velvet,1291.32,896,"flour, mango, strawberries, vanilla",0.362
+54,Male,Chennai,Vegan,10,1.84,Anniversary,Pineapple,1541.38,810,"cashews, vanilla, eggs",0.217
+30,Male,Delhi,Vegetarian,16,4.45,Wedding,Black Forest,920.2,773,"milk, flour, strawberries",0.929
+27,Male,Pune,Vegetarian,29,2.61,Birthday,Mango,1389.64,485,"eggs, almonds, milk, butter, chocolate",0.307
+64,Other,Hyderabad,Vegan,29,2.17,Festival,Mango,1092.51,733,"pineapple, almonds, milk, cream",0.398
+56,Male,Mumbai,Vegan,21,1.61,Festival,Strawberry,622.89,658,"eggs, cashews, flour, chocolate",0.7
+44,Female,Bangalore,Eggetarian,12,2.06,Wedding,Vanilla,1492.96,411,"chocolate, cream, pineapple",0.293
+33,Other,Pune,Eggetarian,5,1.09,Custom,Pineapple,1245.99,325,"cashews, almonds, mango",0.819
+31,Other,Mumbai,Non-Vegetarian,16,3.33,Birthday,Strawberry,909.66,612,"strawberries, vanilla, pineapple, butter, almonds",0.07
+33,Other,Kolkata,Vegan,26,4.37,Festival,Red Velvet,1849.28,698,"milk, cashews, chocolate, sugar",0.791
+42,Other,Kolkata,Eggetarian,12,3.2,Festival,Pineapple,335.59,624,"almonds, vanilla, flour",0.602
+40,Female,Kolkata,Non-Vegetarian,18,1.88,Custom,Red Velvet,836.81,753,"mango, cream, chocolate, vanilla",0.573
+51,Other,Pune,Non-Vegetarian,20,1.13,Wedding,Chocolate,396.7,809,"sugar, chocolate, butter, eggs, almonds",0.458
+40,Other,Pune,Non-Vegetarian,18,1.86,Birthday,Butterscotch,1603.1,742,"sugar, strawberries, cream, milk, vanilla",0.277
+37,Male,Bangalore,Eggetarian,9,2.66,Wedding,Chocolate,1493.58,357,"eggs, cashews, cream",0.464
+23,Other,Hyderabad,Vegan,2,4.04,Wedding,Red Velvet,863.3,311,"cashews, flour, sugar, butter",0.45
+26,Female,Delhi,Vegetarian,13,1.75,Birthday,Mango,1448.63,601,"strawberries, chocolate, cream, butter, mango",0.584
+15,Female,Kolkata,Non-Vegetarian,25,3.88,Birthday,Pineapple,973.09,958,"sugar, vanilla, eggs",0.282
+15,Female,Chennai,Eggetarian,18,4.47,Festival,Vanilla,1585.63,321,"cream, vanilla, flour, sugar, strawberries",0.078
+61,Female,Hyderabad,Eggetarian,4,2.82,Festival,Black Forest,1072.11,472,"pineapple, milk, strawberries, almonds, cashews",0.145
+48,Other,Chennai,Vegetarian,28,4.29,Birthday,Vanilla,1000.88,493,"chocolate, cashews, vanilla",0.699
+46,Other,Bangalore,Vegetarian,4,3.22,Anniversary,Pineapple,1889.04,597,"chocolate, strawberries, pineapple",0.022
+62,Female,Bangalore,Eggetarian,19,3.55,Festival,Chocolate,726.49,670,"pineapple, sugar, butter",0.856
+39,Female,Bangalore,Vegan,16,3.11,Anniversary,Black Forest,504.76,406,"strawberries, cashews, flour",0.694
+54,Other,Mumbai,Vegetarian,20,2.85,Birthday,Pineapple,1293.72,309,"cashews, vanilla, flour",0.768
+59,Female,Chennai,Eggetarian,9,1.94,Festival,Red Velvet,1947.85,639,"butter, cashews, eggs, milk",0.836
+15,Male,Hyderabad,Vegetarian,4,2.21,Wedding,Mango,942.33,477,"strawberries, milk, almonds, eggs, vanilla",0.123
+30,Female,Hyderabad,Vegan,3,2.16,Birthday,Vanilla,405.46,767,"cashews, cream, strawberries, pineapple, butter",0.822
+53,Female,Pune,Non-Vegetarian,5,3.25,Custom,Red Velvet,876.82,768,"mango, butter, pineapple, vanilla, cream",0.505
+19,Male,Pune,Vegetarian,25,1.48,Anniversary,Black Forest,1160.08,681,"mango, vanilla, cashews, cream, flour",0.886
+36,Male,Kolkata,Vegan,3,4.67,Birthday,Black Forest,575.27,313,"chocolate, strawberries, cashews, pineapple, mango",0.887
+43,Other,Pune,Eggetarian,29,3.88,Birthday,Vanilla,1418.77,676,"flour, milk, mango, pineapple",0.024
+17,Other,Bangalore,Vegetarian,6,2.61,Festival,Red Velvet,1996.17,909,"mango, pineapple, milk, almonds",0.383
+26,Male,Hyderabad,Vegetarian,6,1.63,Festival,Strawberry,1067.96,520,"chocolate, eggs, flour, cream",0.526
+40,Male,Chennai,Eggetarian,17,4.53,Festival,Red Velvet,903.04,378,"flour, pineapple, almonds, butter, mango",0.678
+30,Other,Bangalore,Non-Vegetarian,2,4.3,Custom,Black Forest,981.2,418,"butter, sugar, cashews, milk, pineapple",0.286
+51,Female,Mumbai,Eggetarian,0,3.89,Festival,Red Velvet,495.75,988,"butter, cashews, strawberries, flour, sugar",0.252
+36,Male,Pune,Vegetarian,23,2.09,Birthday,Mango,1801.57,727,"milk, flour, chocolate, vanilla, sugar",0.381
+43,Other,Bangalore,Eggetarian,24,2.61,Festival,Pineapple,1005.2,691,"milk, eggs, pineapple, vanilla",0.501
+28,Female,Bangalore,Vegan,3,1.41,Wedding,Chocolate,958.37,260,"flour, butter, pineapple, almonds, cream",0.951
+42,Male,Mumbai,Eggetarian,5,1.76,Festival,Mango,1421.47,253,"eggs, cream, cashews",0.762
+19,Female,Delhi,Vegetarian,8,4.13,Custom,Strawberry,1051.46,879,"eggs, butter, cashews, strawberries, mango",0.429
+61,Other,Hyderabad,Eggetarian,21,3.86,Wedding,Butterscotch,1402.0,737,"mango, eggs, vanilla, strawberries, pineapple",0.054
+63,Male,Chennai,Non-Vegetarian,13,3.37,Birthday,Pineapple,404.46,264,"flour, eggs, almonds, butter",0.169
+44,Female,Kolkata,Eggetarian,27,4.58,Birthday,Chocolate,1683.33,811,"milk, pineapple, butter, mango",0.456
+60,Male,Delhi,Non-Vegetarian,11,3.33,Anniversary,Butterscotch,1898.86,785,"eggs, pineapple, sugar, strawberries",0.814
+19,Female,Pune,Vegan,27,2.87,Wedding,Vanilla,1402.9,903,"cashews, butter, sugar, milk, strawberries",0.381
+26,Other,Bangalore,Non-Vegetarian,24,2.36,Anniversary,Butterscotch,1922.76,370,"strawberries, almonds, vanilla, eggs, milk",0.538
+30,Other,Mumbai,Eggetarian,19,4.76,Wedding,Pineapple,557.43,472,"vanilla, mango, eggs",0.892
+40,Male,Mumbai,Vegetarian,23,1.33,Wedding,Red Velvet,1111.61,898,"flour, milk, butter, mango",0.914
+40,Female,Hyderabad,Non-Vegetarian,24,4.72,Custom,Pineapple,1323.07,734,"chocolate, cream, milk",0.216
+62,Male,Delhi,Vegan,3,4.31,Anniversary,Mango,1288.95,590,"flour, pineapple, mango",0.044
+35,Male,Kolkata,Non-Vegetarian,20,1.52,Custom,Butterscotch,982.49,892,"sugar, vanilla, milk, butter, pineapple",0.305
+53,Female,Hyderabad,Non-Vegetarian,29,3.26,Wedding,Black Forest,874.74,526,"milk, almonds, chocolate, pineapple",0.696
+50,Female,Bangalore,Non-Vegetarian,23,4.47,Birthday,Chocolate,515.6,307,"sugar, milk, cream, butter",0.951
+47,Female,Hyderabad,Vegan,11,3.29,Wedding,Chocolate,965.96,361,"cream, almonds, vanilla, chocolate, milk",0.077
+44,Other,Chennai,Eggetarian,9,4.63,Custom,Butterscotch,576.52,651,"cashews, milk, sugar, butter",0.028
+51,Male,Mumbai,Non-Vegetarian,29,4.77,Anniversary,Chocolate,1548.42,405,"vanilla, cream, almonds, milk, pineapple",0.884
+37,Male,Mumbai,Non-Vegetarian,21,2.69,Anniversary,Black Forest,655.01,789,"mango, pineapple, butter, eggs, vanilla",0.748
+24,Other,Pune,Vegetarian,27,2.51,Custom,Pineapple,399.56,215,"strawberries, pineapple, eggs",0.992
+19,Female,Pune,Vegan,6,4.75,Anniversary,Chocolate,1239.02,526,"strawberries, chocolate, vanilla, sugar",0.397
+50,Other,Kolkata,Non-Vegetarian,2,3.7,Festival,Butterscotch,1311.89,807,"almonds, mango, sugar, butter",0.416
+48,Other,Bangalore,Vegan,22,1.46,Birthday,Strawberry,1782.25,858,"strawberries, chocolate, almonds",0.172
+45,Other,Chennai,Non-Vegetarian,27,1.17,Birthday,Strawberry,1280.87,201,"milk, sugar, cashews, strawberries, flour",0.116
+24,Male,Delhi,Eggetarian,13,3.26,Birthday,Vanilla,887.32,209,"chocolate, almonds, mango, strawberries, milk",0.579
+33,Other,Hyderabad,Eggetarian,23,4.72,Anniversary,Mango,1665.12,633,"butter, cashews, almonds",0.364
+46,Male,Kolkata,Non-Vegetarian,9,4.38,Anniversary,Chocolate,1218.47,324,"almonds, milk, chocolate",0.08
+15,Male,Bangalore,Eggetarian,15,3.7,Wedding,Mango,434.78,280,"eggs, flour, pineapple",0.887
+19,Male,Pune,Non-Vegetarian,15,1.56,Wedding,Pineapple,1261.95,684,"pineapple, almonds, mango, eggs, strawberries",0.198
+59,Female,Hyderabad,Eggetarian,21,2.02,Birthday,Butterscotch,1843.63,851,"sugar, vanilla, almonds, mango",0.749
+18,Male,Pune,Vegetarian,9,4.5,Festival,Chocolate,973.73,349,"chocolate, almonds, strawberries, eggs, butter",0.282
+30,Male,Hyderabad,Vegetarian,24,1.73,Wedding,Red Velvet,803.75,999,"cashews, cream, mango, milk, eggs",0.813
+38,Female,Delhi,Vegetarian,12,2.11,Wedding,Black Forest,543.9,539,"pineapple, chocolate, butter, mango, almonds",0.118
+30,Male,Bangalore,Vegan,5,1.52,Anniversary,Chocolate,557.46,328,"cream, flour, pineapple, cashews, vanilla",0.756
+16,Other,Hyderabad,Vegan,11,3.7,Festival,Chocolate,1035.71,637,"strawberries, mango, vanilla, almonds, milk",0.098
+63,Other,Chennai,Vegetarian,8,4.78,Birthday,Mango,1312.66,950,"butter, almonds, flour",0.447
+42,Male,Kolkata,Vegan,12,2.08,Wedding,Mango,437.05,700,"eggs, strawberries, pineapple, mango, milk",0.734
+46,Female,Mumbai,Eggetarian,3,2.9,Festival,Strawberry,1897.27,257,"flour, strawberries, vanilla, butter, milk",0.173
+41,Other,Chennai,Non-Vegetarian,23,3.54,Festival,Black Forest,1583.73,397,"strawberries, cashews, chocolate, flour",0.286
+34,Female,Chennai,Non-Vegetarian,10,5.0,Birthday,Butterscotch,1297.26,410,"butter, vanilla, flour, mango",0.865
+38,Female,Kolkata,Non-Vegetarian,19,1.42,Festival,Chocolate,1708.35,244,"strawberries, eggs, milk, mango",0.885
+26,Other,Mumbai,Vegetarian,17,2.99,Festival,Strawberry,436.32,296,"pineapple, almonds, strawberries",0.045
+64,Female,Chennai,Vegan,25,2.54,Festival,Mango,1110.63,478,"sugar, eggs, pineapple",0.168
+49,Other,Hyderabad,Eggetarian,10,4.46,Wedding,Vanilla,1371.16,734,"vanilla, pineapple, strawberries, cashews, flour",0.117
+47,Female,Hyderabad,Eggetarian,24,2.9,Birthday,Black Forest,1708.71,609,"butter, almonds, sugar",0.18
+47,Other,Hyderabad,Vegetarian,20,1.44,Festival,Strawberry,1631.9,660,"strawberries, butter, almonds",0.97
+57,Male,Mumbai,Eggetarian,3,3.54,Festival,Strawberry,771.02,590,"milk, eggs, sugar",0.552
+51,Other,Chennai,Eggetarian,17,4.08,Wedding,Pineapple,1899.5,243,"strawberries, chocolate, sugar, mango",0.468
+26,Other,Mumbai,Eggetarian,0,1.01,Birthday,Strawberry,511.39,226,"mango, pineapple, chocolate",0.984
+17,Other,Hyderabad,Eggetarian,26,4.44,Anniversary,Pineapple,1787.73,993,"chocolate, mango, cream, vanilla, eggs",0.557
+15,Other,Kolkata,Vegan,6,1.74,Wedding,Chocolate,1950.6,296,"cashews, butter, vanilla, flour, almonds",0.661
+47,Female,Chennai,Eggetarian,5,3.21,Birthday,Chocolate,601.16,747,"strawberries, almonds, sugar, pineapple",0.333
+54,Male,Chennai,Non-Vegetarian,14,2.66,Festival,Mango,1527.51,820,"flour, milk, eggs",0.382
+24,Other,Pune,Vegetarian,17,3.88,Birthday,Vanilla,368.49,766,"strawberries, cream, butter",0.594
+57,Female,Pune,Vegan,23,2.48,Birthday,Red Velvet,989.22,903,"chocolate, mango, pineapple, sugar",0.07
+58,Male,Delhi,Eggetarian,10,4.48,Birthday,Red Velvet,1177.68,418,"almonds, butter, milk, strawberries",0.256
+43,Male,Bangalore,Vegan,19,3.92,Anniversary,Red Velvet,1287.1,384,"pineapple, mango, chocolate, strawberries",0.197
+27,Male,Pune,Eggetarian,23,3.59,Birthday,Mango,1891.09,268,"sugar, almonds, pineapple",0.016
+26,Male,Mumbai,Non-Vegetarian,14,4.18,Anniversary,Pineapple,1442.83,329,"almonds, milk, strawberries, sugar, cashews",0.537
+45,Other,Pune,Vegetarian,15,4.02,Festival,Mango,1118.17,766,"mango, vanilla, milk",0.561
+60,Other,Delhi,Eggetarian,6,1.14,Anniversary,Black Forest,1676.45,808,"chocolate, butter, cashews, pineapple, sugar",0.384
+16,Female,Chennai,Eggetarian,20,2.58,Festival,Black Forest,1915.91,798,"eggs, cream, flour, cashews",0.269
+64,Female,Delhi,Eggetarian,9,4.72,Festival,Vanilla,337.51,830,"almonds, cashews, sugar, strawberries, vanilla",0.652
+49,Female,Chennai,Eggetarian,25,1.5,Anniversary,Black Forest,1970.29,919,"butter, pineapple, almonds, sugar",0.135
+37,Male,Kolkata,Vegetarian,11,3.95,Wedding,Red Velvet,446.42,533,"flour, almonds, vanilla",0.519
+31,Male,Kolkata,Vegetarian,23,4.9,Custom,Red Velvet,1684.46,353,"mango, chocolate, milk, almonds, strawberries",0.768
+40,Other,Chennai,Non-Vegetarian,13,1.21,Birthday,Mango,776.57,746,"mango, eggs, sugar, milk, vanilla",0.164
+22,Male,Bangalore,Vegetarian,24,3.73,Custom,Strawberry,524.71,278,"almonds, butter, vanilla, milk",0.753
+43,Male,Pune,Eggetarian,4,2.87,Birthday,Black Forest,1047.75,778,"vanilla, cream, eggs",0.761
+40,Male,Mumbai,Non-Vegetarian,25,3.32,Birthday,Mango,1394.73,612,"flour, strawberries, milk, vanilla, chocolate",0.06
+24,Female,Mumbai,Non-Vegetarian,20,1.34,Festival,Chocolate,947.62,745,"strawberries, butter, pineapple",0.019
+40,Female,Hyderabad,Non-Vegetarian,17,1.17,Birthday,Chocolate,392.76,808,"strawberries, pineapple, chocolate, cashews, mango",0.974
+48,Other,Chennai,Eggetarian,4,3.67,Birthday,Strawberry,1319.08,368,"sugar, almonds, flour, chocolate",0.193
+55,Male,Mumbai,Vegan,2,4.29,Anniversary,Strawberry,1834.09,880,"pineapple, mango, strawberries, chocolate, cashews",0.822
+21,Male,Bangalore,Eggetarian,22,4.13,Custom,Strawberry,951.47,862,"cream, chocolate, milk",0.562
+18,Other,Chennai,Vegetarian,25,3.18,Anniversary,Mango,667.77,782,"eggs, pineapple, cashews",0.264
+64,Male,Bangalore,Vegetarian,4,1.4,Birthday,Chocolate,1052.38,714,"pineapple, mango, flour, cashews, almonds",0.13
+59,Male,Mumbai,Eggetarian,23,3.75,Festival,Red Velvet,382.22,513,"chocolate, cashews, mango, almonds, cream",0.497
+25,Female,Mumbai,Eggetarian,16,1.97,Anniversary,Strawberry,1694.83,231,"strawberries, sugar, milk",0.407
+43,Other,Hyderabad,Non-Vegetarian,18,4.64,Anniversary,Vanilla,1704.78,486,"eggs, strawberries, mango",0.699
+50,Other,Mumbai,Eggetarian,18,4.35,Wedding,Pineapple,1299.6,793,"sugar, mango, cashews, vanilla",0.904
+39,Other,Chennai,Non-Vegetarian,24,3.84,Birthday,Mango,900.27,242,"pineapple, chocolate, eggs, mango",0.805
+35,Other,Kolkata,Vegetarian,20,4.8,Festival,Strawberry,1659.63,816,"almonds, eggs, pineapple",0.274
+50,Female,Chennai,Non-Vegetarian,11,1.13,Anniversary,Pineapple,1242.97,200,"mango, milk, chocolate, sugar",0.879
+24,Female,Chennai,Eggetarian,24,3.94,Anniversary,Butterscotch,1704.08,772,"pineapple, strawberries, cashews",0.833
+51,Male,Hyderabad,Vegetarian,28,2.32,Festival,Strawberry,1373.48,469,"sugar, pineapple, milk, chocolate, mango",0.929
+23,Male,Hyderabad,Vegan,8,4.62,Birthday,Chocolate,1633.49,379,"sugar, pineapple, mango",0.459
+38,Male,Mumbai,Non-Vegetarian,0,2.07,Wedding,Black Forest,1317.56,935,"strawberries, pineapple, butter, cashews, chocolate",0.769
+49,Male,Delhi,Vegetarian,17,3.9,Anniversary,Strawberry,1004.04,717,"chocolate, eggs, vanilla, butter",0.592
+63,Female,Delhi,Non-Vegetarian,20,4.51,Wedding,Mango,1928.51,302,"almonds, cream, pineapple",0.311
+49,Other,Hyderabad,Vegetarian,3,1.17,Custom,Black Forest,1219.89,209,"cashews, chocolate, butter",0.994
+62,Female,Mumbai,Vegetarian,9,2.59,Birthday,Butterscotch,1328.65,782,"strawberries, eggs, milk, chocolate, almonds",0.038
+50,Male,Delhi,Non-Vegetarian,24,4.05,Custom,Vanilla,674.83,289,"pineapple, mango, milk",0.162
+32,Female,Mumbai,Vegan,6,2.82,Custom,Black Forest,1363.61,425,"cream, pineapple, flour, vanilla",0.893
+63,Other,Mumbai,Vegetarian,21,2.07,Custom,Pineapple,1271.73,869,"butter, eggs, strawberries, cashews",0.061
+53,Other,Mumbai,Vegetarian,22,1.88,Birthday,Red Velvet,614.23,939,"eggs, strawberries, mango, cream",0.887
+46,Female,Pune,Vegetarian,0,1.53,Birthday,Strawberry,401.3,325,"mango, strawberries, eggs, vanilla, milk",0.715
+38,Female,Chennai,Vegan,16,4.43,Festival,Butterscotch,1327.41,408,"cream, chocolate, eggs, sugar",0.037
+37,Female,Mumbai,Vegan,23,3.3,Wedding,Butterscotch,1598.28,296,"sugar, milk, pineapple, flour, mango",0.429
+46,Male,Pune,Eggetarian,28,1.31,Wedding,Black Forest,1189.78,273,"butter, chocolate, eggs",0.754
+51,Female,Hyderabad,Non-Vegetarian,28,2.53,Festival,Vanilla,685.51,826,"chocolate, pineapple, eggs, cashews, sugar",0.583
+26,Female,Delhi,Vegan,1,2.47,Festival,Chocolate,1433.09,390,"butter, cream, vanilla, almonds",0.936
+63,Female,Chennai,Non-Vegetarian,27,1.73,Custom,Strawberry,436.18,881,"milk, butter, strawberries, mango",0.868
+27,Other,Kolkata,Eggetarian,25,2.74,Festival,Butterscotch,1051.12,915,"vanilla, sugar, milk, flour",0.333
+37,Other,Delhi,Non-Vegetarian,10,2.33,Anniversary,Vanilla,577.72,255,"mango, strawberries, flour, cashews",0.085
+39,Male,Chennai,Vegan,8,2.37,Wedding,Red Velvet,613.58,919,"butter, almonds, eggs, cream",0.944
+49,Male,Kolkata,Non-Vegetarian,6,3.96,Festival,Butterscotch,643.9,752,"cream, sugar, milk, mango, flour",0.517
+55,Other,Delhi,Vegan,21,1.89,Anniversary,Vanilla,957.4,231,"almonds, butter, milk, cream",0.074
+44,Other,Chennai,Non-Vegetarian,16,3.57,Anniversary,Mango,386.96,726,"vanilla, eggs, mango",0.817
+31,Other,Delhi,Vegan,16,3.28,Anniversary,Chocolate,976.25,773,"sugar, mango, milk, flour",0.869
+63,Female,Delhi,Vegan,1,3.27,Anniversary,Chocolate,1169.9,866,"cashews, mango, almonds, chocolate, cream",0.639
+34,Female,Kolkata,Non-Vegetarian,5,3.65,Custom,Butterscotch,1121.6,483,"sugar, almonds, chocolate, cream",0.448
+62,Other,Delhi,Eggetarian,13,3.19,Anniversary,Pineapple,950.73,920,"cream, milk, pineapple, strawberries",0.662
+39,Female,Delhi,Vegetarian,5,4.52,Custom,Butterscotch,1726.55,693,"strawberries, sugar, cashews, cream, eggs",0.707
+36,Female,Kolkata,Eggetarian,1,3.7,Custom,Black Forest,547.06,386,"cream, flour, pineapple, strawberries, chocolate",0.893
+27,Male,Hyderabad,Non-Vegetarian,0,3.19,Anniversary,Strawberry,1159.68,697,"cream, eggs, sugar",0.956
+33,Other,Mumbai,Eggetarian,9,4.32,Wedding,Vanilla,405.47,641,"almonds, mango, butter, cashews, flour",0.514
+63,Other,Bangalore,Vegan,20,3.42,Anniversary,Butterscotch,420.96,329,"cream, strawberries, flour, mango, eggs",0.798
+50,Female,Pune,Vegetarian,4,2.16,Anniversary,Strawberry,1275.57,838,"strawberries, vanilla, almonds, chocolate",0.965
+26,Other,Bangalore,Non-Vegetarian,1,1.83,Anniversary,Black Forest,1262.23,491,"eggs, chocolate, milk, strawberries",0.151
+55,Male,Bangalore,Non-Vegetarian,21,1.61,Wedding,Mango,1792.66,313,"flour, vanilla, milk, cashews",0.018
+33,Male,Chennai,Non-Vegetarian,15,4.6,Birthday,Mango,1248.39,398,"pineapple, cream, cashews",0.869
+26,Male,Mumbai,Vegetarian,24,3.84,Birthday,Strawberry,1931.64,212,"chocolate, butter, sugar, pineapple",0.195
+23,Other,Chennai,Vegan,1,4.75,Custom,Butterscotch,382.78,470,"pineapple, vanilla, sugar, cream",0.042
+21,Other,Mumbai,Non-Vegetarian,9,3.41,Custom,Chocolate,466.61,800,"milk, eggs, mango, strawberries, cashews",0.16
+42,Other,Kolkata,Eggetarian,1,2.89,Wedding,Vanilla,374.91,414,"chocolate, cream, almonds",0.384
+28,Other,Kolkata,Non-Vegetarian,15,1.24,Festival,Vanilla,614.97,643,"cashews, eggs, strawberries",0.219
+45,Other,Mumbai,Non-Vegetarian,15,3.69,Birthday,Mango,1220.16,989,"almonds, mango, sugar, strawberries, pineapple",0.305
+33,Male,Delhi,Non-Vegetarian,18,3.33,Custom,Mango,1397.47,711,"pineapple, cashews, butter",0.975
+61,Female,Hyderabad,Non-Vegetarian,28,4.96,Birthday,Chocolate,377.49,646,"almonds, milk, vanilla",0.704
+30,Male,Delhi,Vegan,6,1.96,Wedding,Pineapple,1908.15,914,"sugar, cream, vanilla",0.712
+19,Other,Hyderabad,Eggetarian,21,3.12,Wedding,Butterscotch,1731.68,273,"strawberries, eggs, sugar, milk, cashews",0.095
+49,Male,Chennai,Vegan,11,3.6,Festival,Mango,804.24,736,"flour, vanilla, strawberries, mango, cashews",0.732
+26,Other,Hyderabad,Eggetarian,23,3.58,Festival,Mango,431.22,300,"butter, eggs, milk, pineapple, chocolate",0.739
+39,Other,Chennai,Non-Vegetarian,14,3.25,Wedding,Mango,588.81,375,"almonds, strawberries, flour",0.66
+35,Male,Kolkata,Vegetarian,7,4.11,Custom,Vanilla,515.81,626,"pineapple, vanilla, cream",0.228
+50,Other,Bangalore,Vegan,5,1.82,Birthday,Butterscotch,509.58,316,"flour, sugar, mango, eggs",0.423
+37,Female,Kolkata,Vegetarian,27,3.9,Anniversary,Black Forest,1181.55,365,"sugar, chocolate, flour, milk",0.846
+30,Other,Kolkata,Vegan,26,3.48,Festival,Butterscotch,717.94,240,"milk, eggs, mango",0.67
+53,Female,Bangalore,Non-Vegetarian,9,4.58,Anniversary,Strawberry,908.84,628,"mango, strawberries, milk",0.733
+59,Female,Hyderabad,Vegan,2,4.39,Custom,Chocolate,1982.16,543,"cream, pineapple, eggs",0.587
+56,Other,Hyderabad,Non-Vegetarian,18,2.26,Festival,Pineapple,1463.33,623,"strawberries, milk, cream, mango, flour",0.45
+53,Male,Chennai,Vegan,16,2.1,Anniversary,Mango,1913.27,565,"pineapple, cream, vanilla, eggs",0.759
+28,Female,Delhi,Non-Vegetarian,6,4.93,Custom,Mango,542.35,319,"vanilla, cream, chocolate, cashews",0.068
+45,Male,Chennai,Non-Vegetarian,20,3.11,Birthday,Butterscotch,949.64,808,"pineapple, vanilla, chocolate, strawberries",0.673
+19,Female,Delhi,Eggetarian,19,4.63,Custom,Pineapple,1243.04,856,"sugar, chocolate, eggs",0.997
+49,Other,Kolkata,Non-Vegetarian,25,1.66,Festival,Mango,430.49,927,"vanilla, butter, pineapple, chocolate, milk",0.78
+37,Other,Bangalore,Eggetarian,3,3.57,Wedding,Pineapple,307.12,428,"cashews, milk, chocolate, strawberries, eggs",0.291
+43,Female,Kolkata,Non-Vegetarian,13,4.24,Birthday,Black Forest,1439.74,329,"butter, milk, flour",0.278
+57,Other,Mumbai,Vegetarian,19,4.79,Anniversary,Red Velvet,1391.09,551,"strawberries, mango, eggs, flour",0.667
+25,Female,Hyderabad,Non-Vegetarian,21,2.35,Festival,Chocolate,998.34,517,"sugar, chocolate, cream, vanilla",0.896
+32,Other,Delhi,Vegetarian,14,3.9,Wedding,Pineapple,1132.39,848,"cashews, almonds, chocolate",0.578
+61,Male,Chennai,Vegetarian,23,3.16,Custom,Vanilla,1006.25,536,"flour, chocolate, cream",0.527
+26,Other,Bangalore,Non-Vegetarian,7,1.24,Wedding,Strawberry,340.81,472,"cream, butter, cashews, chocolate",0.16
+23,Male,Delhi,Vegetarian,20,3.76,Festival,Vanilla,870.13,316,"mango, flour, butter, sugar, pineapple",0.715
+24,Other,Chennai,Eggetarian,14,3.76,Festival,Mango,601.04,567,"butter, vanilla, strawberries, chocolate",0.702
+58,Male,Hyderabad,Vegan,21,4.72,Wedding,Black Forest,467.32,293,"almonds, eggs, butter, cream",0.967
+31,Other,Kolkata,Non-Vegetarian,19,2.99,Custom,Black Forest,1926.42,367,"mango, milk, cream, flour, butter",0.3
+52,Male,Hyderabad,Vegetarian,27,1.92,Wedding,Vanilla,1318.91,914,"almonds, butter, vanilla",0.756
+21,Female,Pune,Non-Vegetarian,13,1.18,Festival,Chocolate,1538.72,540,"eggs, milk, pineapple, almonds",0.434
+60,Female,Mumbai,Eggetarian,26,2.66,Festival,Vanilla,836.12,860,"cream, almonds, mango, flour, butter",0.558
+27,Male,Pune,Non-Vegetarian,28,2.21,Anniversary,Butterscotch,968.35,894,"butter, strawberries, flour",0.816
+54,Other,Bangalore,Non-Vegetarian,8,4.04,Anniversary,Mango,702.77,351,"flour, strawberries, vanilla",0.222
+56,Male,Delhi,Vegetarian,7,2.42,Birthday,Mango,464.84,785,"chocolate, cashews, milk, almonds, strawberries",0.343
+23,Other,Bangalore,Eggetarian,25,4.8,Festival,Vanilla,604.35,473,"cashews, strawberries, almonds, chocolate, butter",0.773
+64,Female,Kolkata,Vegan,27,4.85,Anniversary,Strawberry,1655.77,753,"sugar, cashews, flour",0.57
+41,Other,Chennai,Vegan,25,3.48,Wedding,Strawberry,1451.83,695,"sugar, vanilla, butter",0.092
+16,Female,Hyderabad,Vegetarian,16,4.71,Custom,Mango,1229.78,923,"sugar, cream, eggs, chocolate, vanilla",0.43
+19,Other,Pune,Non-Vegetarian,1,4.04,Wedding,Red Velvet,1107.65,300,"vanilla, pineapple, milk, flour",0.587
+43,Other,Pune,Vegetarian,24,3.19,Custom,Strawberry,1868.14,756,"chocolate, almonds, sugar, milk, strawberries",0.91
+51,Other,Kolkata,Vegetarian,23,1.72,Anniversary,Vanilla,423.65,281,"eggs, strawberries, cashews, pineapple",0.188
+52,Male,Pune,Vegetarian,29,2.83,Birthday,Strawberry,777.02,728,"sugar, almonds, chocolate",0.806
+33,Male,Kolkata,Non-Vegetarian,2,3.24,Wedding,Mango,894.89,272,"strawberries, chocolate, mango, milk",0.131
+22,Female,Bangalore,Eggetarian,7,4.46,Wedding,Chocolate,1630.12,213,"pineapple, sugar, butter, flour",0.242
+62,Female,Hyderabad,Vegetarian,11,2.93,Wedding,Pineapple,1987.27,632,"cream, eggs, milk, cashews, strawberries",0.243
+59,Male,Delhi,Non-Vegetarian,0,4.59,Custom,Strawberry,709.14,356,"strawberries, almonds, cream, vanilla",0.877
+15,Female,Chennai,Eggetarian,9,3.7,Anniversary,Butterscotch,1786.32,934,"pineapple, mango, milk, cashews, sugar",0.199
+36,Male,Delhi,Vegetarian,19,1.55,Wedding,Chocolate,1712.06,331,"cream, pineapple, milk",0.787
+31,Other,Bangalore,Vegan,2,4.98,Wedding,Red Velvet,681.92,537,"chocolate, mango, strawberries, eggs, sugar",0.462
+21,Female,Chennai,Eggetarian,5,3.11,Birthday,Butterscotch,978.87,603,"milk, butter, almonds, strawberries",0.999
+39,Female,Pune,Vegetarian,6,2.57,Birthday,Vanilla,996.44,575,"vanilla, butter, cashews, flour",0.839
+59,Male,Mumbai,Eggetarian,19,3.64,Anniversary,Pineapple,1962.98,758,"vanilla, pineapple, cream, flour, almonds",0.74
+18,Female,Bangalore,Eggetarian,22,1.44,Anniversary,Vanilla,607.52,306,"almonds, strawberries, milk, pineapple",0.871
+50,Female,Bangalore,Eggetarian,24,3.55,Festival,Pineapple,1658.57,819,"cashews, strawberries, vanilla, eggs",0.634
+20,Other,Hyderabad,Eggetarian,26,2.99,Birthday,Pineapple,868.13,464,"butter, almonds, pineapple, sugar",0.844
+45,Female,Delhi,Eggetarian,17,2.63,Festival,Vanilla,1542.48,404,"cashews, cream, strawberries, butter",0.261
+33,Other,Bangalore,Eggetarian,10,4.81,Custom,Butterscotch,1014.02,278,"almonds, milk, mango, eggs",0.098
+58,Male,Bangalore,Vegetarian,18,3.09,Festival,Butterscotch,1283.21,354,"cashews, eggs, sugar",0.616
+53,Female,Pune,Vegan,4,1.88,Wedding,Pineapple,1715.44,982,"milk, vanilla, almonds",0.435
+41,Other,Pune,Non-Vegetarian,18,2.84,Festival,Butterscotch,1667.08,446,"cashews, mango, flour",0.426
+24,Male,Chennai,Eggetarian,10,4.68,Anniversary,Pineapple,1772.92,730,"almonds, vanilla, butter",0.527
+40,Female,Kolkata,Non-Vegetarian,23,1.7,Custom,Mango,401.35,737,"pineapple, butter, mango",0.361
+33,Male,Kolkata,Vegetarian,11,1.86,Wedding,Pineapple,1476.49,928,"almonds, cashews, vanilla",0.626
+53,Female,Mumbai,Eggetarian,9,1.05,Festival,Mango,537.98,353,"milk, cream, mango, butter, chocolate",0.031
+17,Male,Kolkata,Vegan,7,1.06,Custom,Chocolate,1006.89,353,"strawberries, flour, butter, cashews",0.97
+59,Male,Hyderabad,Non-Vegetarian,23,4.32,Custom,Black Forest,1232.6,885,"mango, almonds, butter, milk",0.925
+27,Other,Mumbai,Eggetarian,27,3.93,Wedding,Chocolate,984.66,291,"pineapple, chocolate, milk, mango",0.935
+64,Male,Chennai,Vegetarian,27,2.42,Festival,Vanilla,1183.34,632,"eggs, chocolate, milk, mango, pineapple",0.365
+42,Female,Pune,Vegan,8,3.79,Custom,Black Forest,1994.09,537,"vanilla, chocolate, pineapple, sugar",0.532
+34,Female,Kolkata,Non-Vegetarian,3,2.58,Custom,Strawberry,529.87,679,"strawberries, mango, cashews",0.954
+42,Other,Delhi,Non-Vegetarian,4,4.81,Birthday,Vanilla,1448.28,892,"strawberries, flour, pineapple, chocolate, mango",0.902
+22,Female,Pune,Eggetarian,20,4.87,Custom,Red Velvet,973.2,330,"mango, cashews, almonds",0.79
+55,Female,Hyderabad,Vegan,7,2.57,Birthday,Chocolate,526.12,649,"mango, flour, butter",0.407
+53,Female,Pune,Vegan,22,4.42,Festival,Butterscotch,569.85,986,"flour, pineapple, eggs, butter, sugar",0.564
+15,Male,Hyderabad,Vegan,8,4.09,Festival,Chocolate,1913.76,472,"chocolate, pineapple, cream, sugar",0.793
+17,Male,Hyderabad,Vegan,14,2.24,Festival,Butterscotch,1795.32,787,"milk, mango, pineapple",0.273
+27,Female,Hyderabad,Vegetarian,14,1.93,Anniversary,Black Forest,1841.97,376,"pineapple, cashews, eggs, cream",0.626
+42,Other,Chennai,Vegan,15,2.83,Festival,Red Velvet,1985.61,895,"butter, pineapple, vanilla",0.828
+63,Male,Hyderabad,Non-Vegetarian,13,4.13,Custom,Black Forest,654.14,842,"chocolate, mango, eggs",0.707
+39,Other,Hyderabad,Non-Vegetarian,7,4.84,Wedding,Red Velvet,904.25,248,"flour, sugar, eggs, cream, almonds",0.479
+47,Female,Delhi,Vegetarian,17,4.05,Birthday,Chocolate,1437.67,766,"flour, pineapple, chocolate, cashews, almonds",0.585
+52,Female,Mumbai,Non-Vegetarian,9,4.42,Anniversary,Butterscotch,1122.46,865,"flour, cream, butter",0.989
+20,Male,Bangalore,Non-Vegetarian,27,3.41,Festival,Black Forest,1011.26,554,"eggs, vanilla, cream, milk, chocolate",0.602
+58,Female,Mumbai,Vegan,19,4.34,Festival,Red Velvet,908.28,911,"chocolate, sugar, milk, eggs",0.786
+59,Male,Hyderabad,Non-Vegetarian,5,4.14,Wedding,Pineapple,1309.43,507,"butter, flour, sugar, cream",0.727
+46,Female,Delhi,Vegetarian,11,2.51,Wedding,Vanilla,1278.51,829,"strawberries, chocolate, cream, milk",0.701
+59,Female,Pune,Vegan,1,3.21,Anniversary,Vanilla,574.48,974,"flour, eggs, almonds",0.716
+61,Male,Delhi,Eggetarian,6,4.22,Birthday,Black Forest,1101.96,245,"milk, vanilla, cashews",0.454
+35,Male,Hyderabad,Vegan,15,1.18,Festival,Butterscotch,1240.9,501,"cream, pineapple, butter, eggs, vanilla",0.474
+30,Male,Delhi,Vegetarian,2,4.23,Anniversary,Pineapple,1269.49,607,"milk, cashews, pineapple, flour",0.468
+35,Female,Kolkata,Vegan,12,1.71,Custom,Black Forest,657.18,388,"cream, pineapple, eggs",0.033
+25,Female,Delhi,Vegan,2,3.06,Custom,Chocolate,1561.86,328,"sugar, cream, vanilla",0.241
+51,Other,Hyderabad,Vegetarian,26,4.23,Anniversary,Red Velvet,342.84,760,"sugar, milk, chocolate, almonds",0.155
+50,Male,Chennai,Vegan,17,2.02,Festival,Mango,903.21,736,"mango, strawberries, butter, sugar, pineapple",0.886
+49,Female,Kolkata,Vegetarian,10,1.98,Anniversary,Chocolate,1626.36,465,"eggs, almonds, pineapple, strawberries",0.275
+33,Female,Delhi,Vegetarian,7,2.61,Festival,Vanilla,1258.62,317,"butter, mango, sugar, strawberries",0.138
+34,Male,Bangalore,Eggetarian,5,4.58,Wedding,Red Velvet,743.98,663,"cream, chocolate, pineapple",0.12
+32,Other,Bangalore,Non-Vegetarian,0,1.0,Anniversary,Black Forest,1481.42,343,"cashews, vanilla, mango, chocolate, butter",0.7
+61,Male,Delhi,Non-Vegetarian,27,4.61,Festival,Chocolate,1264.56,641,"pineapple, vanilla, almonds, eggs, strawberries",0.006
+55,Other,Chennai,Vegan,0,1.62,Anniversary,Strawberry,1653.61,399,"vanilla, almonds, milk, mango",0.471
+63,Female,Pune,Vegan,22,4.96,Anniversary,Mango,1549.54,356,"eggs, cream, milk, butter, almonds",0.119
+28,Other,Hyderabad,Eggetarian,7,4.82,Festival,Butterscotch,1337.18,686,"vanilla, eggs, milk",0.85
+29,Female,Bangalore,Eggetarian,4,2.98,Festival,Pineapple,1129.9,333,"sugar, butter, milk, flour, strawberries",0.958
+45,Male,Pune,Eggetarian,27,3.05,Birthday,Pineapple,526.41,347,"pineapple, strawberries, flour, chocolate",0.959
+15,Male,Delhi,Vegetarian,15,2.93,Anniversary,Butterscotch,744.27,535,"sugar, cashews, mango, flour",0.442
+17,Male,Pune,Eggetarian,10,3.54,Custom,Strawberry,1012.47,270,"sugar, pineapple, cashews, mango, milk",0.645
